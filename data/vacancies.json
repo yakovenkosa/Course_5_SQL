@@ -50,20 +50,20 @@
                 "link": "https://api.hh.ru/vacancies/95109084?host=hh.ru"
             },
             {
-                "id": "81731668",
-                "title": "Специалист по налоговому учету",
-                "city": "Саратов",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/81731668?host=hh.ru"
-            },
-            {
                 "id": "105252737",
                 "title": "Специалист по электронному документообороту",
                 "city": "Саратов",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105252737?host=hh.ru"
+            },
+            {
+                "id": "81731668",
+                "title": "Специалист по налоговому учету",
+                "city": "Саратов",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/81731668?host=hh.ru"
             },
             {
                 "id": "90486245",
@@ -90,20 +90,20 @@
                 "link": "https://api.hh.ru/vacancies/105893112?host=hh.ru"
             },
             {
-                "id": "97828472",
-                "title": "Специалист по обработке банковских операций",
-                "city": "Саратов",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/97828472?host=hh.ru"
-            },
-            {
                 "id": "105289882",
                 "title": "Главный специалист по платежам (банк-клиент)",
                 "city": "Санкт-Петербург",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105289882?host=hh.ru"
+            },
+            {
+                "id": "97828472",
+                "title": "Специалист по обработке банковских операций",
+                "city": "Саратов",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/97828472?host=hh.ru"
             },
             {
                 "id": "104900275",
@@ -178,20 +178,20 @@
                 "link": "https://api.hh.ru/vacancies/105549574?host=hh.ru"
             },
             {
-                "id": "105504612",
-                "title": "Проектный менеджер",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105504612?host=hh.ru"
-            },
-            {
                 "id": "105257181",
                 "title": "Бухгалтер по расчету заработной платы",
                 "city": "Саратов",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105257181?host=hh.ru"
+            },
+            {
+                "id": "105504612",
+                "title": "Проектный менеджер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105504612?host=hh.ru"
             },
             {
                 "id": "105437181",
@@ -218,20 +218,20 @@
                 "link": "https://api.hh.ru/vacancies/103525927?host=hh.ru"
             },
             {
-                "id": "98215195",
-                "title": "Начинающий специалист отдела кадров",
-                "city": "Саратов",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/98215195?host=hh.ru"
-            },
-            {
                 "id": "105399542",
                 "title": "Руководитель проектов в IT",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105399542?host=hh.ru"
+            },
+            {
+                "id": "98215195",
+                "title": "Начинающий специалист отдела кадров",
+                "city": "Саратов",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/98215195?host=hh.ru"
             },
             {
                 "id": "104806023",
@@ -242,20 +242,20 @@
                 "link": "https://api.hh.ru/vacancies/104806023?host=hh.ru"
             },
             {
-                "id": "104127440",
-                "title": "Архитектор (архитектура бизнес-приложений и стратегии)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104127440?host=hh.ru"
-            },
-            {
                 "id": "104804865",
                 "title": "Бухгалтер на первичную документацию (авторизация платежей)",
                 "city": "Саратов",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104804865?host=hh.ru"
+            },
+            {
+                "id": "104127440",
+                "title": "Архитектор (архитектура бизнес-приложений и стратегии)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104127440?host=hh.ru"
             },
             {
                 "id": "99558117",
@@ -266,20 +266,20 @@
                 "link": "https://api.hh.ru/vacancies/99558117?host=hh.ru"
             },
             {
-                "id": "104664137",
-                "title": "Сервис-менеджер",
-                "city": "Норильск",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104664137?host=hh.ru"
-            },
-            {
                 "id": "104724191",
                 "title": "Главный специалист ВИП поддержки",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104724191?host=hh.ru"
+            },
+            {
+                "id": "104664137",
+                "title": "Сервис-менеджер",
+                "city": "Норильск",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104664137?host=hh.ru"
             },
             {
                 "id": "105371258",
@@ -298,36 +298,12 @@
                 "link": "https://api.hh.ru/vacancies/102926378?host=hh.ru"
             },
             {
-                "id": "101702586",
-                "title": "Администратор проекта группы управления запасами",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/101702586?host=hh.ru"
-            },
-            {
                 "id": "105134410",
                 "title": "Разработчик фронтэнда",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105134410?host=hh.ru"
-            },
-            {
-                "id": "105874569",
-                "title": "Кладовщик (ИТ активы)",
-                "city": "Норильск",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105874569?host=hh.ru"
-            },
-            {
-                "id": "42986196",
-                "title": "Специалист службы поддержки пользователей",
-                "city": "Саратов",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/42986196?host=hh.ru"
             },
             {
                 "id": "105729975",
@@ -338,12 +314,28 @@
                 "link": "https://api.hh.ru/vacancies/105729975?host=hh.ru"
             },
             {
-                "id": "106259226",
-                "title": "Аналитик Process Mining",
+                "id": "105874569",
+                "title": "Кладовщик (ИТ активы)",
+                "city": "Норильск",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105874569?host=hh.ru"
+            },
+            {
+                "id": "101702586",
+                "title": "Администратор проекта группы управления запасами",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106259226?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/101702586?host=hh.ru"
+            },
+            {
+                "id": "42986196",
+                "title": "Специалист службы поддержки пользователей",
+                "city": "Саратов",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/42986196?host=hh.ru"
             },
             {
                 "id": "100684995",
@@ -354,20 +346,20 @@
                 "link": "https://api.hh.ru/vacancies/100684995?host=hh.ru"
             },
             {
-                "id": "105362147",
-                "title": "Аналитик",
+                "id": "106259226",
+                "title": "Аналитик Process Mining",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105362147?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106259226?host=hh.ru"
             },
             {
-                "id": "99529205",
-                "title": "Ведущий бухгалтер по формированию отчетности по заработной плате",
-                "city": "Саратов",
+                "id": "103658014",
+                "title": "Менеджер в управление по цифровым технологиям",
+                "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/99529205?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/103658014?host=hh.ru"
             },
             {
                 "id": "94968478",
@@ -378,12 +370,20 @@
                 "link": "https://api.hh.ru/vacancies/94968478?host=hh.ru"
             },
             {
-                "id": "103658014",
-                "title": "Менеджер в управление по цифровым технологиям",
+                "id": "99529205",
+                "title": "Ведущий бухгалтер по формированию отчетности по заработной плате",
+                "city": "Саратов",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/99529205?host=hh.ru"
+            },
+            {
+                "id": "105362147",
+                "title": "Аналитик",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/103658014?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105362147?host=hh.ru"
             },
             {
                 "id": "104917404",
@@ -400,6 +400,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105371254?host=hh.ru"
+            },
+            {
+                "id": "104784666",
+                "title": "Начальник отдела метрологии (в г. Норильск)",
+                "city": "Казань",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104784666?host=hh.ru"
             },
             {
                 "id": "106158995",
@@ -482,6 +490,14 @@
                 "link": "https://api.hh.ru/vacancies/105020696?host=hh.ru"
             },
             {
+                "id": "98943180",
+                "title": "Аналитик данных в управление ИТ-инфраструктуры",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/98943180?host=hh.ru"
+            },
+            {
                 "id": "105020693",
                 "title": "Начальник отдела метрологии (в г. Норильск)",
                 "city": "Вологда",
@@ -490,20 +506,12 @@
                 "link": "https://api.hh.ru/vacancies/105020693?host=hh.ru"
             },
             {
-                "id": "104784666",
-                "title": "Начальник отдела метрологии (в г. Норильск)",
-                "city": "Казань",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104784666?host=hh.ru"
-            },
-            {
-                "id": "98943180",
-                "title": "Аналитик данных в управление ИТ-инфраструктуры",
+                "id": "98529742",
+                "title": "Руководитель проектов (промышленная автоматизация)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/98943180?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/98529742?host=hh.ru"
             },
             {
                 "id": "105653373",
@@ -522,12 +530,12 @@
                 "link": "https://api.hh.ru/vacancies/104784667?host=hh.ru"
             },
             {
-                "id": "98529742",
-                "title": "Руководитель проектов (промышленная автоматизация)",
+                "id": "105135715",
+                "title": "Главный менеджер Управление методологии, контроля и развития ИТ-услуг и процессов",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/98529742?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105135715?host=hh.ru"
             },
             {
                 "id": "103972684",
@@ -570,14 +578,6 @@
                 "link": "https://api.hh.ru/vacancies/105020117?host=hh.ru"
             },
             {
-                "id": "105135715",
-                "title": "Главный менеджер Управление методологии, контроля и развития ИТ-услуг и процессов",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105135715?host=hh.ru"
-            },
-            {
                 "id": "105371253",
                 "title": "Специалист службы поддержки пользователей",
                 "city": "Пенза",
@@ -600,6 +600,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105371259?host=hh.ru"
+            },
+            {
+                "id": "106238658",
+                "title": "Ведущий специалист по сопровождению финансовых сервисов",
+                "city": "Саратов",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106238658?host=hh.ru"
             },
             {
                 "id": "105055757",
@@ -626,20 +634,20 @@
                 "link": "https://api.hh.ru/vacancies/105798833?host=hh.ru"
             },
             {
-                "id": "106238658",
-                "title": "Ведущий специалист по сопровождению финансовых сервисов",
-                "city": "Саратов",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106238658?host=hh.ru"
-            },
-            {
                 "id": "105734265",
                 "title": "Бухгалтер-стажер (отдел заработной платы)",
                 "city": "Саратов",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105734265?host=hh.ru"
+            },
+            {
+                "id": "106238355",
+                "title": "WEB - разработчик (поддержка и развитие SmartApp приложений платформы мобильного доступа)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106238355?host=hh.ru"
             },
             {
                 "id": "103966655",
@@ -664,14 +672,6 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105020695?host=hh.ru"
-            },
-            {
-                "id": "106238355",
-                "title": "WEB - разработчик (поддержка и развитие SmartApp приложений платформы мобильного доступа)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106238355?host=hh.ru"
             },
             {
                 "id": "104784661",
@@ -722,6 +722,14 @@
                 "link": "https://api.hh.ru/vacancies/105020697?host=hh.ru"
             },
             {
+                "id": "106207197",
+                "title": "Главный специалист (контролер) по бухгалтерскому учету",
+                "city": "Саратов",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106207197?host=hh.ru"
+            },
+            {
                 "id": "104716386",
                 "title": "Специалист 1 категории (Администратор проектов промышленной автоматизации, ИТ)",
                 "city": "Москва",
@@ -762,14 +770,6 @@
                 "link": "https://api.hh.ru/vacancies/105740506?host=hh.ru"
             },
             {
-                "id": "106207197",
-                "title": "Главный специалист (контролер) по бухгалтерскому учету",
-                "city": "Саратов",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106207197?host=hh.ru"
-            },
-            {
                 "id": "105020699",
                 "title": "Начальник отдела метрологии (в г. Норильск)",
                 "city": "Саратов",
@@ -794,12 +794,12 @@
                 "link": "https://api.hh.ru/vacancies/102841058?host=hh.ru"
             },
             {
-                "id": "105648470",
-                "title": "Эксперт АСУТП",
-                "city": "Москва",
+                "id": "104720400",
+                "title": "Сервис-менеджер группы бюджетного сопровождения",
+                "city": "Саратов",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105648470?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/104720400?host=hh.ru"
             }
         ]
     },
@@ -934,20 +934,20 @@
                 "link": "https://api.hh.ru/vacancies/105906874?host=hh.ru"
             },
             {
-                "id": "105484275",
-                "title": "Junior Data Engineer",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105484275?host=hh.ru"
-            },
-            {
                 "id": "104875817",
                 "title": "Product Owner (HR Tech Стартап)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104875817?host=hh.ru"
+            },
+            {
+                "id": "105484275",
+                "title": "Junior Data Engineer",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105484275?host=hh.ru"
             },
             {
                 "id": "101940833",
@@ -958,14 +958,6 @@
                 "link": "https://api.hh.ru/vacancies/101940833?host=hh.ru"
             },
             {
-                "id": "100359845",
-                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
-                "city": "Саранск",
-                "salary_from": 40000,
-                "salary_to": 40000,
-                "link": "https://api.hh.ru/vacancies/100359845?host=hh.ru"
-            },
-            {
                 "id": "96549121",
                 "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
                 "city": "Красноярск",
@@ -974,12 +966,12 @@
                 "link": "https://api.hh.ru/vacancies/96549121?host=hh.ru"
             },
             {
-                "id": "106252877",
-                "title": "IT-специалист",
-                "city": "Санкт-Петербург",
-                "salary_from": 130000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106252877?host=hh.ru"
+                "id": "100359845",
+                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
+                "city": "Саранск",
+                "salary_from": 40000,
+                "salary_to": 40000,
+                "link": "https://api.hh.ru/vacancies/100359845?host=hh.ru"
             },
             {
                 "id": "106040099",
@@ -988,6 +980,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106040099?host=hh.ru"
+            },
+            {
+                "id": "106252877",
+                "title": "IT-специалист",
+                "city": "Санкт-Петербург",
+                "salary_from": 130000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106252877?host=hh.ru"
             },
             {
                 "id": "106053696",
@@ -1046,6 +1046,14 @@
                 "link": "https://api.hh.ru/vacancies/106050225?host=hh.ru"
             },
             {
+                "id": "105994676",
+                "title": "Продуктовый аналитик (Самовывоз)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105994676?host=hh.ru"
+            },
+            {
                 "id": "105466754",
                 "title": "Специалист IT отдела (техническая поддержка пользователей)",
                 "city": "Москва",
@@ -1054,12 +1062,12 @@
                 "link": "https://api.hh.ru/vacancies/105466754?host=hh.ru"
             },
             {
-                "id": "105994676",
-                "title": "Продуктовый аналитик (Самовывоз)",
-                "city": "Москва",
-                "salary_from": null,
+                "id": "105740716",
+                "title": "Начинающий специалист IT",
+                "city": "Санкт-Петербург",
+                "salary_from": 80000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105994676?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105740716?host=hh.ru"
             },
             {
                 "id": "97024228",
@@ -1078,12 +1086,12 @@
                 "link": "https://api.hh.ru/vacancies/105484276?host=hh.ru"
             },
             {
-                "id": "105740716",
-                "title": "Начинающий специалист IT",
-                "city": "Санкт-Петербург",
-                "salary_from": 80000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105740716?host=hh.ru"
+                "id": "105802417",
+                "title": "Начинающий аккаунт-менеджер в диджитал",
+                "city": "Самара",
+                "salary_from": 40000,
+                "salary_to": 50000,
+                "link": "https://api.hh.ru/vacancies/105802417?host=hh.ru"
             },
             {
                 "id": "101841339",
@@ -1094,28 +1102,20 @@
                 "link": "https://api.hh.ru/vacancies/101841339?host=hh.ru"
             },
             {
-                "id": "106068305",
-                "title": "Специалист - IT/инженер - IT",
-                "city": "Пенза",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106068305?host=hh.ru"
-            },
-            {
-                "id": "105802417",
-                "title": "Начинающий аккаунт-менеджер в диджитал",
-                "city": "Самара",
-                "salary_from": 40000,
-                "salary_to": 50000,
-                "link": "https://api.hh.ru/vacancies/105802417?host=hh.ru"
-            },
-            {
                 "id": "106007973",
                 "title": "Frontend-разработчик (команда B2B)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106007973?host=hh.ru"
+            },
+            {
+                "id": "106068305",
+                "title": "Специалист - IT/инженер - IT",
+                "city": "Пенза",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106068305?host=hh.ru"
             },
             {
                 "id": "106163961",
@@ -1150,14 +1150,6 @@
                 "link": "https://api.hh.ru/vacancies/99713797?host=hh.ru"
             },
             {
-                "id": "106079664",
-                "title": "Координатор по изменениям",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106079664?host=hh.ru"
-            },
-            {
                 "id": "106177169",
                 "title": "IT-специалист",
                 "city": "Санкт-Петербург",
@@ -1166,12 +1158,12 @@
                 "link": "https://api.hh.ru/vacancies/106177169?host=hh.ru"
             },
             {
-                "id": "100360081",
-                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
-                "city": "Челябинск",
-                "salary_from": 40000,
-                "salary_to": 40000,
-                "link": "https://api.hh.ru/vacancies/100360081?host=hh.ru"
+                "id": "106079664",
+                "title": "Координатор по изменениям",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106079664?host=hh.ru"
             },
             {
                 "id": "105461540",
@@ -1182,12 +1174,28 @@
                 "link": "https://api.hh.ru/vacancies/105461540?host=hh.ru"
             },
             {
+                "id": "100360081",
+                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
+                "city": "Челябинск",
+                "salary_from": 40000,
+                "salary_to": 40000,
+                "link": "https://api.hh.ru/vacancies/100360081?host=hh.ru"
+            },
+            {
                 "id": "106099419",
                 "title": "Frontend Developer",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106099419?host=hh.ru"
+            },
+            {
+                "id": "106011545",
+                "title": "QA-инженер (команда процессинга заказов)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106011545?host=hh.ru"
             },
             {
                 "id": "106130517",
@@ -1214,28 +1222,12 @@
                 "link": "https://api.hh.ru/vacancies/106180085?host=hh.ru"
             },
             {
-                "id": "106011545",
-                "title": "QA-инженер (команда процессинга заказов)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106011545?host=hh.ru"
-            },
-            {
                 "id": "105690479",
                 "title": "Head of Recruitment в IT-международное агентство",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105690479?host=hh.ru"
-            },
-            {
-                "id": "106066402",
-                "title": "Специалист IT технологий",
-                "city": "Иваново (Ивановская область)",
-                "salary_from": 60000,
-                "salary_to": 100000,
-                "link": "https://api.hh.ru/vacancies/106066402?host=hh.ru"
             },
             {
                 "id": "105040545",
@@ -1246,12 +1238,20 @@
                 "link": "https://api.hh.ru/vacancies/105040545?host=hh.ru"
             },
             {
-                "id": "104000818",
-                "title": "Инженер технической поддержки",
-                "city": "Москва",
-                "salary_from": 250000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104000818?host=hh.ru"
+                "id": "106239594",
+                "title": "Начинающий специалист в IT",
+                "city": "Казань",
+                "salary_from": null,
+                "salary_to": 50000,
+                "link": "https://api.hh.ru/vacancies/106239594?host=hh.ru"
+            },
+            {
+                "id": "106066402",
+                "title": "Специалист IT технологий",
+                "city": "Иваново (Ивановская область)",
+                "salary_from": 60000,
+                "salary_to": 100000,
+                "link": "https://api.hh.ru/vacancies/106066402?host=hh.ru"
             },
             {
                 "id": "104924706",
@@ -1262,20 +1262,12 @@
                 "link": "https://api.hh.ru/vacancies/104924706?host=hh.ru"
             },
             {
-                "id": "104979842",
-                "title": "Менеджер по продажам B2B в IT / Менеджер развития бизнеса",
-                "city": "Санкт-Петербург",
-                "salary_from": 70000,
-                "salary_to": 200000,
-                "link": "https://api.hh.ru/vacancies/104979842?host=hh.ru"
-            },
-            {
-                "id": "105712709",
-                "title": "IT специалист",
-                "city": "Шымкент",
+                "id": "104000818",
+                "title": "Инженер технической поддержки",
+                "city": "Москва",
                 "salary_from": 250000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105712709?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/104000818?host=hh.ru"
             },
             {
                 "id": "105009606",
@@ -1286,12 +1278,20 @@
                 "link": "https://api.hh.ru/vacancies/105009606?host=hh.ru"
             },
             {
-                "id": "106239594",
-                "title": "Начинающий специалист в IT",
-                "city": "Казань",
-                "salary_from": null,
-                "salary_to": 50000,
-                "link": "https://api.hh.ru/vacancies/106239594?host=hh.ru"
+                "id": "105712709",
+                "title": "IT специалист",
+                "city": "Шымкент",
+                "salary_from": 250000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105712709?host=hh.ru"
+            },
+            {
+                "id": "104979842",
+                "title": "Менеджер по продажам B2B в IT / Менеджер развития бизнеса",
+                "city": "Санкт-Петербург",
+                "salary_from": 70000,
+                "salary_to": 200000,
+                "link": "https://api.hh.ru/vacancies/104979842?host=hh.ru"
             },
             {
                 "id": "105934341",
@@ -1318,14 +1318,6 @@
                 "link": "https://api.hh.ru/vacancies/105730933?host=hh.ru"
             },
             {
-                "id": "106102118",
-                "title": "Руководитель отдела информационных технологий",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106102118?host=hh.ru"
-            },
-            {
                 "id": "100377216",
                 "title": "Payment manager/Менеджер по платежам",
                 "city": "Санкт-Петербург",
@@ -1334,12 +1326,12 @@
                 "link": "https://api.hh.ru/vacancies/100377216?host=hh.ru"
             },
             {
-                "id": "106006192",
-                "title": "Специалист IT отдела",
-                "city": "Краснодар",
+                "id": "106102118",
+                "title": "Руководитель отдела информационных технологий",
+                "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106006192?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106102118?host=hh.ru"
             },
             {
                 "id": "106260186",
@@ -1350,12 +1342,12 @@
                 "link": "https://api.hh.ru/vacancies/106260186?host=hh.ru"
             },
             {
-                "id": "104250485",
-                "title": "Начинающий специалист (продажи в IT)",
-                "city": "Москва",
-                "salary_from": 90000,
-                "salary_to": 200000,
-                "link": "https://api.hh.ru/vacancies/104250485?host=hh.ru"
+                "id": "106006192",
+                "title": "Специалист IT отдела",
+                "city": "Краснодар",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106006192?host=hh.ru"
             },
             {
                 "id": "106164384",
@@ -1366,12 +1358,12 @@
                 "link": "https://api.hh.ru/vacancies/106164384?host=hh.ru"
             },
             {
-                "id": "106233616",
-                "title": "Начинающий IT специалист",
-                "city": "Омск",
-                "salary_from": 55000,
-                "salary_to": 100000,
-                "link": "https://api.hh.ru/vacancies/106233616?host=hh.ru"
+                "id": "104250485",
+                "title": "Начинающий специалист (продажи в IT)",
+                "city": "Москва",
+                "salary_from": 90000,
+                "salary_to": 200000,
+                "link": "https://api.hh.ru/vacancies/104250485?host=hh.ru"
             },
             {
                 "id": "105907249",
@@ -1390,12 +1382,12 @@
                 "link": "https://api.hh.ru/vacancies/106124091?host=hh.ru"
             },
             {
-                "id": "106090274",
-                "title": "IT специалист",
-                "city": "Костанай",
-                "salary_from": 300000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106090274?host=hh.ru"
+                "id": "106233616",
+                "title": "Начинающий IT специалист",
+                "city": "Омск",
+                "salary_from": 55000,
+                "salary_to": 100000,
+                "link": "https://api.hh.ru/vacancies/106233616?host=hh.ru"
             },
             {
                 "id": "106259324",
@@ -1414,12 +1406,12 @@
                 "link": "https://api.hh.ru/vacancies/103020931?host=hh.ru"
             },
             {
-                "id": "105044339",
-                "title": "Системный администратор",
-                "city": "Алматы",
-                "salary_from": 400000,
+                "id": "106090274",
+                "title": "IT специалист",
+                "city": "Костанай",
+                "salary_from": 300000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105044339?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106090274?host=hh.ru"
             },
             {
                 "id": "106238713",
@@ -1454,6 +1446,14 @@
                 "link": "https://api.hh.ru/vacancies/106060116?host=hh.ru"
             },
             {
+                "id": "105044339",
+                "title": "Системный администратор",
+                "city": "Алматы",
+                "salary_from": 400000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105044339?host=hh.ru"
+            },
+            {
                 "id": "105741535",
                 "title": "Backend-разработчик на Java",
                 "city": "Москва",
@@ -1470,36 +1470,12 @@
                 "link": "https://api.hh.ru/vacancies/105097171?host=hh.ru"
             },
             {
-                "id": "105786736",
-                "title": "Менеджер по взаимодействию с пользователями",
-                "city": "Казань",
-                "salary_from": 60000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105786736?host=hh.ru"
-            },
-            {
-                "id": "105888660",
-                "title": "Специалист IT отдела",
-                "city": "Астана",
-                "salary_from": 150000,
-                "salary_to": 180000,
-                "link": "https://api.hh.ru/vacancies/105888660?host=hh.ru"
-            },
-            {
-                "id": "105776166",
-                "title": "IT специалист",
-                "city": "Шымкент",
-                "salary_from": 180000,
-                "salary_to": 250000,
-                "link": "https://api.hh.ru/vacancies/105776166?host=hh.ru"
-            },
-            {
-                "id": "106032358",
-                "title": "Frontend-разработчик Vue.js",
-                "city": "Ташкент",
+                "id": "106274038",
+                "title": "TeamLead Recruitment",
+                "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106032358?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106274038?host=hh.ru"
             },
             {
                 "id": "106184018",
@@ -1510,28 +1486,36 @@
                 "link": "https://api.hh.ru/vacancies/106184018?host=hh.ru"
             },
             {
-                "id": "106221392",
-                "title": "Компьютерный мастер",
-                "city": "Барнаул",
-                "salary_from": 100000,
-                "salary_to": 200000,
-                "link": "https://api.hh.ru/vacancies/106221392?host=hh.ru"
+                "id": "105888660",
+                "title": "Специалист IT отдела",
+                "city": "Астана",
+                "salary_from": 150000,
+                "salary_to": 180000,
+                "link": "https://api.hh.ru/vacancies/105888660?host=hh.ru"
             },
             {
-                "id": "106274038",
-                "title": "TeamLead Recruitment",
-                "city": "Москва",
+                "id": "105786736",
+                "title": "Менеджер по взаимодействию с пользователями",
+                "city": "Казань",
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105786736?host=hh.ru"
+            },
+            {
+                "id": "106032358",
+                "title": "Frontend-разработчик Vue.js",
+                "city": "Ташкент",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106274038?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106032358?host=hh.ru"
             },
             {
-                "id": "85177371",
-                "title": "Начинающий менеджер по продажам недвижимости",
-                "city": "Казань",
-                "salary_from": 80000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/85177371?host=hh.ru"
+                "id": "105776166",
+                "title": "IT специалист",
+                "city": "Шымкент",
+                "salary_from": 180000,
+                "salary_to": 250000,
+                "link": "https://api.hh.ru/vacancies/105776166?host=hh.ru"
             },
             {
                 "id": "105461541",
@@ -1542,12 +1526,20 @@
                 "link": "https://api.hh.ru/vacancies/105461541?host=hh.ru"
             },
             {
-                "id": "105340487",
-                "title": "Customer Support Specialist",
-                "city": "Алматы",
-                "salary_from": 645,
-                "salary_to": 800,
-                "link": "https://api.hh.ru/vacancies/105340487?host=hh.ru"
+                "id": "85177371",
+                "title": "Начинающий менеджер по продажам недвижимости",
+                "city": "Казань",
+                "salary_from": 80000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/85177371?host=hh.ru"
+            },
+            {
+                "id": "106221392",
+                "title": "Компьютерный мастер",
+                "city": "Барнаул",
+                "salary_from": 100000,
+                "salary_to": 200000,
+                "link": "https://api.hh.ru/vacancies/106221392?host=hh.ru"
             },
             {
                 "id": "106076653",
@@ -1556,6 +1548,14 @@
                 "salary_from": 100000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106076653?host=hh.ru"
+            },
+            {
+                "id": "105340487",
+                "title": "Customer Support Specialist",
+                "city": "Алматы",
+                "salary_from": 645,
+                "salary_to": 800,
+                "link": "https://api.hh.ru/vacancies/105340487?host=hh.ru"
             },
             {
                 "id": "105981496",
@@ -1598,12 +1598,12 @@
                 "link": "https://api.hh.ru/vacancies/105389205?host=hh.ru"
             },
             {
-                "id": "105264029",
-                "title": "Менеджер по подбору персонала (IT направление)",
+                "id": "105461544",
+                "title": "Специалист по работе в системе ЕМИАС",
                 "city": "Москва",
-                "salary_from": null,
+                "salary_from": 80000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105264029?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105461544?host=hh.ru"
             }
         ]
     },
@@ -1738,14 +1738,6 @@
                 "link": "https://api.hh.ru/vacancies/105956207?host=hh.ru"
             },
             {
-                "id": "106241140",
-                "title": "Frontend-разработчик",
-                "city": "Санкт-Петербург",
-                "salary_from": 80000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106241140?host=hh.ru"
-            },
-            {
                 "id": "106045223",
                 "title": "Junior Frontend-разработчик",
                 "city": "Санкт-Петербург",
@@ -1762,12 +1754,12 @@
                 "link": "https://api.hh.ru/vacancies/106201471?host=hh.ru"
             },
             {
-                "id": "106214309",
+                "id": "106241140",
                 "title": "Frontend-разработчик",
-                "city": "Москва",
-                "salary_from": null,
+                "city": "Санкт-Петербург",
+                "salary_from": 80000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106214309?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106241140?host=hh.ru"
             },
             {
                 "id": "106270169",
@@ -1776,6 +1768,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106270169?host=hh.ru"
+            },
+            {
+                "id": "106214309",
+                "title": "Frontend-разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106214309?host=hh.ru"
             },
             {
                 "id": "106254937",
@@ -1794,20 +1794,20 @@
                 "link": "https://api.hh.ru/vacancies/106215852?host=hh.ru"
             },
             {
-                "id": "106262111",
-                "title": "Frontend-разработчик",
-                "city": "Иннополис",
-                "salary_from": 180000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106262111?host=hh.ru"
-            },
-            {
                 "id": "106006258",
                 "title": "Frontend developer",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106006258?host=hh.ru"
+            },
+            {
+                "id": "106262111",
+                "title": "Frontend-разработчик",
+                "city": "Иннополис",
+                "salary_from": 180000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106262111?host=hh.ru"
             },
             {
                 "id": "106010570",
@@ -1842,22 +1842,6 @@
                 "link": "https://api.hh.ru/vacancies/106012473?host=hh.ru"
             },
             {
-                "id": "106238024",
-                "title": "Frontend разработчик React",
-                "city": "Москва",
-                "salary_from": 180000,
-                "salary_to": 250000,
-                "link": "https://api.hh.ru/vacancies/106238024?host=hh.ru"
-            },
-            {
-                "id": "106262284",
-                "title": "Frontend-разработчик (React)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106262284?host=hh.ru"
-            },
-            {
                 "id": "106101403",
                 "title": "Веб-разработчик fullstack (стажер)",
                 "city": "Минск",
@@ -1866,12 +1850,28 @@
                 "link": "https://api.hh.ru/vacancies/106101403?host=hh.ru"
             },
             {
+                "id": "106238024",
+                "title": "Frontend разработчик React",
+                "city": "Москва",
+                "salary_from": 180000,
+                "salary_to": 250000,
+                "link": "https://api.hh.ru/vacancies/106238024?host=hh.ru"
+            },
+            {
                 "id": "106242609",
                 "title": "Python-разработчик (Django)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106242609?host=hh.ru"
+            },
+            {
+                "id": "106262284",
+                "title": "Frontend-разработчик (React)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106262284?host=hh.ru"
             },
             {
                 "id": "106130588",
@@ -1930,20 +1930,20 @@
                 "link": "https://api.hh.ru/vacancies/102158167?host=hh.ru"
             },
             {
-                "id": "106131400",
-                "title": "Frontend Developer (JavaScript разработчик)",
-                "city": "Санкт-Петербург",
-                "salary_from": 80000,
-                "salary_to": 130000,
-                "link": "https://api.hh.ru/vacancies/106131400?host=hh.ru"
-            },
-            {
                 "id": "106072764",
                 "title": "Frontend-разработчик",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106072764?host=hh.ru"
+            },
+            {
+                "id": "106131400",
+                "title": "Frontend Developer (JavaScript разработчик)",
+                "city": "Санкт-Петербург",
+                "salary_from": 80000,
+                "salary_to": 130000,
+                "link": "https://api.hh.ru/vacancies/106131400?host=hh.ru"
             },
             {
                 "id": "106120724",
@@ -1970,20 +1970,20 @@
                 "link": "https://api.hh.ru/vacancies/105742587?host=hh.ru"
             },
             {
-                "id": "106136078",
-                "title": "Middle+ Frontend Developer (React)",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106136078?host=hh.ru"
-            },
-            {
                 "id": "106255437",
                 "title": "Технический директор / CTO",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106255437?host=hh.ru"
+            },
+            {
+                "id": "106136078",
+                "title": "Middle+ Frontend Developer (React)",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106136078?host=hh.ru"
             },
             {
                 "id": "106181954",
@@ -2018,14 +2018,6 @@
                 "link": "https://api.hh.ru/vacancies/106011596?host=hh.ru"
             },
             {
-                "id": "106079872",
-                "title": "Front-end разработчик",
-                "city": "Казань",
-                "salary_from": 60000,
-                "salary_to": 80000,
-                "link": "https://api.hh.ru/vacancies/106079872?host=hh.ru"
-            },
-            {
                 "id": "106114799",
                 "title": "Frontend-разработчик (React)",
                 "city": "Москва",
@@ -2034,20 +2026,12 @@
                 "link": "https://api.hh.ru/vacancies/106114799?host=hh.ru"
             },
             {
-                "id": "105752686",
-                "title": "Руководитель проектов",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105752686?host=hh.ru"
-            },
-            {
-                "id": "106267364",
-                "title": "Middle Frontend Software Engineer (Брест)",
-                "city": "Брест",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106267364?host=hh.ru"
+                "id": "106079872",
+                "title": "Front-end разработчик",
+                "city": "Казань",
+                "salary_from": 60000,
+                "salary_to": 80000,
+                "link": "https://api.hh.ru/vacancies/106079872?host=hh.ru"
             },
             {
                 "id": "105041466",
@@ -2058,20 +2042,20 @@
                 "link": "https://api.hh.ru/vacancies/105041466?host=hh.ru"
             },
             {
+                "id": "105752686",
+                "title": "Руководитель проектов",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105752686?host=hh.ru"
+            },
+            {
                 "id": "105529427",
                 "title": "Frontend-разработчик / инженер-проектировщик MES",
                 "city": "Санкт-Петербург",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105529427?host=hh.ru"
-            },
-            {
-                "id": "105875136",
-                "title": "Frontend-разработчик в Информационные корпоративные сервисы",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105875136?host=hh.ru"
             },
             {
                 "id": "106259471",
@@ -2082,12 +2066,12 @@
                 "link": "https://api.hh.ru/vacancies/106259471?host=hh.ru"
             },
             {
-                "id": "105637735",
-                "title": "Junior Front-end разработчик",
-                "city": "Москва",
-                "salary_from": 40000,
-                "salary_to": 60000,
-                "link": "https://api.hh.ru/vacancies/105637735?host=hh.ru"
+                "id": "106267364",
+                "title": "Middle Frontend Software Engineer (Брест)",
+                "city": "Брест",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106267364?host=hh.ru"
             },
             {
                 "id": "106172260",
@@ -2098,6 +2082,22 @@
                 "link": "https://api.hh.ru/vacancies/106172260?host=hh.ru"
             },
             {
+                "id": "105875136",
+                "title": "Frontend-разработчик в Информационные корпоративные сервисы",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105875136?host=hh.ru"
+            },
+            {
+                "id": "105637735",
+                "title": "Junior Front-end разработчик",
+                "city": "Москва",
+                "salary_from": 40000,
+                "salary_to": 60000,
+                "link": "https://api.hh.ru/vacancies/105637735?host=hh.ru"
+            },
+            {
                 "id": "106050340",
                 "title": "Frontend-разработчик",
                 "city": "Краснодар",
@@ -2106,12 +2106,12 @@
                 "link": "https://api.hh.ru/vacancies/106050340?host=hh.ru"
             },
             {
-                "id": "106204807",
-                "title": "Frontend-разработчик",
-                "city": "Казань",
-                "salary_from": 70000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106204807?host=hh.ru"
+                "id": "101737153",
+                "title": "Frontend-разработчик (React)",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/101737153?host=hh.ru"
             },
             {
                 "id": "106186699",
@@ -2138,6 +2138,14 @@
                 "link": "https://api.hh.ru/vacancies/105106903?host=hh.ru"
             },
             {
+                "id": "106204807",
+                "title": "Frontend-разработчик",
+                "city": "Казань",
+                "salary_from": 70000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106204807?host=hh.ru"
+            },
+            {
                 "id": "99970420",
                 "title": "Frontend-разработчик (React)",
                 "city": "Москва",
@@ -2146,20 +2154,20 @@
                 "link": "https://api.hh.ru/vacancies/99970420?host=hh.ru"
             },
             {
-                "id": "101737153",
-                "title": "Frontend-разработчик (React)",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/101737153?host=hh.ru"
-            },
-            {
                 "id": "106036202",
                 "title": "FrontEnd разработчик уровня Middle",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106036202?host=hh.ru"
+            },
+            {
+                "id": "105301276",
+                "title": "Middle Golang developer",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105301276?host=hh.ru"
             },
             {
                 "id": "106116004",
@@ -2186,20 +2194,20 @@
                 "link": "https://api.hh.ru/vacancies/106213492?host=hh.ru"
             },
             {
-                "id": "105301276",
-                "title": "Middle Golang developer",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105301276?host=hh.ru"
-            },
-            {
                 "id": "105336518",
                 "title": "Junior Frontend (Vue / Quasar)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105336518?host=hh.ru"
+            },
+            {
+                "id": "106139445",
+                "title": "Frontend разработчик (middle/middle+) blockchain",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106139445?host=hh.ru"
             },
             {
                 "id": "105959480",
@@ -2218,22 +2226,6 @@
                 "link": "https://api.hh.ru/vacancies/106039028?host=hh.ru"
             },
             {
-                "id": "106121232",
-                "title": "Frontend-разработчик",
-                "city": "Ярославль",
-                "salary_from": 30000,
-                "salary_to": 50000,
-                "link": "https://api.hh.ru/vacancies/106121232?host=hh.ru"
-            },
-            {
-                "id": "106139445",
-                "title": "Frontend разработчик (middle/middle+) blockchain",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106139445?host=hh.ru"
-            },
-            {
                 "id": "106089701",
                 "title": "Frontend разработчик / Middle+",
                 "city": "Новосибирск",
@@ -2242,12 +2234,12 @@
                 "link": "https://api.hh.ru/vacancies/106089701?host=hh.ru"
             },
             {
-                "id": "106007973",
-                "title": "Frontend-разработчик (команда B2B)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106007973?host=hh.ru"
+                "id": "106121232",
+                "title": "Frontend-разработчик",
+                "city": "Ярославль",
+                "salary_from": 30000,
+                "salary_to": 50000,
+                "link": "https://api.hh.ru/vacancies/106121232?host=hh.ru"
             },
             {
                 "id": "106270585",
@@ -2258,12 +2250,12 @@
                 "link": "https://api.hh.ru/vacancies/106270585?host=hh.ru"
             },
             {
-                "id": "104693876",
-                "title": "Middle mobile QA Engineer офис/гибрид Москва",
+                "id": "106007973",
+                "title": "Frontend-разработчик (команда B2B)",
                 "city": "Москва",
-                "salary_from": 120000,
+                "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104693876?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106007973?host=hh.ru"
             },
             {
                 "id": "104929221",
@@ -2274,20 +2266,20 @@
                 "link": "https://api.hh.ru/vacancies/104929221?host=hh.ru"
             },
             {
+                "id": "104693876",
+                "title": "Middle mobile QA Engineer офис/гибрид Москва",
+                "city": "Москва",
+                "salary_from": 120000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104693876?host=hh.ru"
+            },
+            {
                 "id": "106124083",
                 "title": "Frontend-разработчик (React) Middle/Middle+",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106124083?host=hh.ru"
-            },
-            {
-                "id": "104339071",
-                "title": "Ведущий Frontend разработчик",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104339071?host=hh.ru"
             },
             {
                 "id": "105917286",
@@ -2298,20 +2290,20 @@
                 "link": "https://api.hh.ru/vacancies/105917286?host=hh.ru"
             },
             {
+                "id": "104339071",
+                "title": "Ведущий Frontend разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104339071?host=hh.ru"
+            },
+            {
                 "id": "105471800",
                 "title": "Ручной тестировщик (QA Manual)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105471800?host=hh.ru"
-            },
-            {
-                "id": "106115627",
-                "title": "Дизайнер дизайн-системы /UI kit",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106115627?host=hh.ru"
             },
             {
                 "id": "106116891",
@@ -2330,20 +2322,28 @@
                 "link": "https://api.hh.ru/vacancies/103850463?host=hh.ru"
             },
             {
+                "id": "106115627",
+                "title": "Дизайнер дизайн-системы /UI kit",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106115627?host=hh.ru"
+            },
+            {
+                "id": "105894949",
+                "title": "Junior Frontend Разработчик",
+                "city": "Екатеринбург",
+                "salary_from": 30000,
+                "salary_to": 50000,
+                "link": "https://api.hh.ru/vacancies/105894949?host=hh.ru"
+            },
+            {
                 "id": "104244470",
                 "title": "Тестировщик / QA engineer",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104244470?host=hh.ru"
-            },
-            {
-                "id": "106099419",
-                "title": "Frontend Developer",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106099419?host=hh.ru"
             },
             {
                 "id": "98947718",
@@ -2354,12 +2354,12 @@
                 "link": "https://api.hh.ru/vacancies/98947718?host=hh.ru"
             },
             {
-                "id": "105894949",
-                "title": "Junior Frontend Разработчик",
-                "city": "Екатеринбург",
-                "salary_from": 30000,
-                "salary_to": 50000,
-                "link": "https://api.hh.ru/vacancies/105894949?host=hh.ru"
+                "id": "106099419",
+                "title": "Frontend Developer",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106099419?host=hh.ru"
             },
             {
                 "id": "106139717",
@@ -2394,20 +2394,20 @@
                 "link": "https://api.hh.ru/vacancies/105657294?host=hh.ru"
             },
             {
-                "id": "105039123",
-                "title": "Frontend разработчик (React)",
-                "city": "Санкт-Петербург",
-                "salary_from": 80000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105039123?host=hh.ru"
-            },
-            {
                 "id": "106243358",
                 "title": "Frontend-разработчик (Красноярск)",
                 "city": "Красноярск",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106243358?host=hh.ru"
+            },
+            {
+                "id": "106267451",
+                "title": "Product Manager",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106267451?host=hh.ru"
             }
         ]
     },
@@ -2510,6 +2510,14 @@
                 "link": "https://api.hh.ru/vacancies/106276872?host=hh.ru"
             },
             {
+                "id": "105544992",
+                "title": "Frontend-разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105544992?host=hh.ru"
+            },
+            {
                 "id": "102788816",
                 "title": "Senior/Middle Frontend разработчик",
                 "city": "Санкт-Петербург",
@@ -2548,14 +2556,6 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106140402?host=hh.ru"
-            },
-            {
-                "id": "105544992",
-                "title": "Frontend-разработчик",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105544992?host=hh.ru"
             },
             {
                 "id": "99567902",
@@ -2606,20 +2606,20 @@
                 "link": "https://api.hh.ru/vacancies/105662634?host=hh.ru"
             },
             {
-                "id": "106206835",
-                "title": "Frontend-разработчик",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/106206835?host=hh.ru"
-            },
-            {
                 "id": "106039545",
                 "title": "Middle Frontend-разработчик (React)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106039545?host=hh.ru"
+            },
+            {
+                "id": "106206835",
+                "title": "Frontend-разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/106206835?host=hh.ru"
             },
             {
                 "id": "106127519",
@@ -2646,14 +2646,6 @@
                 "link": "https://api.hh.ru/vacancies/105762553?host=hh.ru"
             },
             {
-                "id": "106241140",
-                "title": "Frontend-разработчик",
-                "city": "Санкт-Петербург",
-                "salary_from": 80000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106241140?host=hh.ru"
-            },
-            {
                 "id": "106045223",
                 "title": "Junior Frontend-разработчик",
                 "city": "Санкт-Петербург",
@@ -2670,12 +2662,12 @@
                 "link": "https://api.hh.ru/vacancies/106201471?host=hh.ru"
             },
             {
-                "id": "106214309",
+                "id": "106241140",
                 "title": "Frontend-разработчик",
-                "city": "Москва",
-                "salary_from": null,
+                "city": "Санкт-Петербург",
+                "salary_from": 80000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106214309?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106241140?host=hh.ru"
             },
             {
                 "id": "106270169",
@@ -2686,14 +2678,6 @@
                 "link": "https://api.hh.ru/vacancies/106270169?host=hh.ru"
             },
             {
-                "id": "106254937",
-                "title": "Frontend-разработчик",
-                "city": "Екатеринбург",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106254937?host=hh.ru"
-            },
-            {
                 "id": "104841041",
                 "title": "Junior Frontend Developer (стажер)",
                 "city": "Минск",
@@ -2702,12 +2686,20 @@
                 "link": "https://api.hh.ru/vacancies/104841041?host=hh.ru"
             },
             {
-                "id": "106215852",
-                "title": "Разработчик Frontend (React) в команду создания частного облака",
+                "id": "106214309",
+                "title": "Frontend-разработчик",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106215852?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106214309?host=hh.ru"
+            },
+            {
+                "id": "106254937",
+                "title": "Frontend-разработчик",
+                "city": "Екатеринбург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106254937?host=hh.ru"
             },
             {
                 "id": "106118936",
@@ -2718,12 +2710,12 @@
                 "link": "https://api.hh.ru/vacancies/106118936?host=hh.ru"
             },
             {
-                "id": "106262111",
-                "title": "Frontend-разработчик",
-                "city": "Иннополис",
-                "salary_from": 180000,
+                "id": "106215852",
+                "title": "Разработчик Frontend (React) в команду создания частного облака",
+                "city": "Москва",
+                "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106262111?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106215852?host=hh.ru"
             },
             {
                 "id": "106006258",
@@ -2732,6 +2724,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106006258?host=hh.ru"
+            },
+            {
+                "id": "106262111",
+                "title": "Frontend-разработчик",
+                "city": "Иннополис",
+                "salary_from": 180000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106262111?host=hh.ru"
             },
             {
                 "id": "106010570",
@@ -2790,28 +2790,20 @@
                 "link": "https://api.hh.ru/vacancies/105986086?host=hh.ru"
             },
             {
+                "id": "106101403",
+                "title": "Веб-разработчик fullstack (стажер)",
+                "city": "Минск",
+                "salary_from": null,
+                "salary_to": 1500,
+                "link": "https://api.hh.ru/vacancies/106101403?host=hh.ru"
+            },
+            {
                 "id": "106137090",
                 "title": "Frontend ReactJS разработчик",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106137090?host=hh.ru"
-            },
-            {
-                "id": "106238024",
-                "title": "Frontend разработчик React",
-                "city": "Москва",
-                "salary_from": 180000,
-                "salary_to": 250000,
-                "link": "https://api.hh.ru/vacancies/106238024?host=hh.ru"
-            },
-            {
-                "id": "106262284",
-                "title": "Frontend-разработчик (React)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106262284?host=hh.ru"
             },
             {
                 "id": "105439487",
@@ -2822,20 +2814,12 @@
                 "link": "https://api.hh.ru/vacancies/105439487?host=hh.ru"
             },
             {
-                "id": "106101403",
-                "title": "Веб-разработчик fullstack (стажер)",
-                "city": "Минск",
-                "salary_from": null,
-                "salary_to": 1500,
-                "link": "https://api.hh.ru/vacancies/106101403?host=hh.ru"
-            },
-            {
-                "id": "106137990",
-                "title": "Frontend Developer Team Bravo",
-                "city": "Тбилиси",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106137990?host=hh.ru"
+                "id": "106238024",
+                "title": "Frontend разработчик React",
+                "city": "Москва",
+                "salary_from": 180000,
+                "salary_to": 250000,
+                "link": "https://api.hh.ru/vacancies/106238024?host=hh.ru"
             },
             {
                 "id": "106242609",
@@ -2854,6 +2838,22 @@
                 "link": "https://api.hh.ru/vacancies/105357916?host=hh.ru"
             },
             {
+                "id": "106137990",
+                "title": "Frontend Developer Team Bravo",
+                "city": "Тбилиси",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106137990?host=hh.ru"
+            },
+            {
+                "id": "106262284",
+                "title": "Frontend-разработчик (React)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106262284?host=hh.ru"
+            },
+            {
                 "id": "106130588",
                 "title": "Frontend-разработчик ( junior \\ junior+ )",
                 "city": "Екатеринбург",
@@ -2862,20 +2862,20 @@
                 "link": "https://api.hh.ru/vacancies/106130588?host=hh.ru"
             },
             {
-                "id": "106242723",
-                "title": "Frontend-разработчик (Junior)",
-                "city": "Санкт-Петербург",
-                "salary_from": 35000,
-                "salary_to": 50000,
-                "link": "https://api.hh.ru/vacancies/106242723?host=hh.ru"
-            },
-            {
                 "id": "106006669",
                 "title": "Frontend-разработчик",
                 "city": "Томск",
                 "salary_from": 50000,
                 "salary_to": 70000,
                 "link": "https://api.hh.ru/vacancies/106006669?host=hh.ru"
+            },
+            {
+                "id": "106242723",
+                "title": "Frontend-разработчик (Junior)",
+                "city": "Санкт-Петербург",
+                "salary_from": 35000,
+                "salary_to": 50000,
+                "link": "https://api.hh.ru/vacancies/106242723?host=hh.ru"
             },
             {
                 "id": "105484126",
@@ -2934,14 +2934,6 @@
                 "link": "https://api.hh.ru/vacancies/106249085?host=hh.ru"
             },
             {
-                "id": "106131400",
-                "title": "Frontend Developer (JavaScript разработчик)",
-                "city": "Санкт-Петербург",
-                "salary_from": 80000,
-                "salary_to": 130000,
-                "link": "https://api.hh.ru/vacancies/106131400?host=hh.ru"
-            },
-            {
                 "id": "105867820",
                 "title": "Senior/Lead Frontend Developer (Удаленно)",
                 "city": "Санкт-Петербург",
@@ -2956,6 +2948,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106072764?host=hh.ru"
+            },
+            {
+                "id": "106131400",
+                "title": "Frontend Developer (JavaScript разработчик)",
+                "city": "Санкт-Петербург",
+                "salary_from": 80000,
+                "salary_to": 130000,
+                "link": "https://api.hh.ru/vacancies/106131400?host=hh.ru"
             },
             {
                 "id": "106120724",
@@ -2990,22 +2990,6 @@
                 "link": "https://api.hh.ru/vacancies/106278199?host=hh.ru"
             },
             {
-                "id": "105742587",
-                "title": "JavaScript Developer",
-                "city": "Ташкент",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105742587?host=hh.ru"
-            },
-            {
-                "id": "106136078",
-                "title": "Middle+ Frontend Developer (React)",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106136078?host=hh.ru"
-            },
-            {
                 "id": "105077768",
                 "title": "Frontend (React) стажер-разработчик",
                 "city": "Москва",
@@ -3014,12 +2998,28 @@
                 "link": "https://api.hh.ru/vacancies/105077768?host=hh.ru"
             },
             {
+                "id": "105742587",
+                "title": "JavaScript Developer",
+                "city": "Ташкент",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105742587?host=hh.ru"
+            },
+            {
                 "id": "106235506",
                 "title": "Фронтенд Разработчик",
                 "city": "Уфа",
                 "salary_from": null,
                 "salary_to": 50000,
                 "link": "https://api.hh.ru/vacancies/106235506?host=hh.ru"
+            },
+            {
+                "id": "106136078",
+                "title": "Middle+ Frontend Developer (React)",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106136078?host=hh.ru"
             },
             {
                 "id": "105146005",
@@ -3054,14 +3054,6 @@
                 "link": "https://api.hh.ru/vacancies/106098098?host=hh.ru"
             },
             {
-                "id": "106011862",
-                "title": "Frontend разработчик (Легкая Дистрибуция)",
-                "city": "Москва",
-                "salary_from": 150000,
-                "salary_to": 180000,
-                "link": "https://api.hh.ru/vacancies/106011862?host=hh.ru"
-            },
-            {
                 "id": "106011596",
                 "title": "Frontend разработчик React",
                 "city": "Краснодар",
@@ -3070,12 +3062,12 @@
                 "link": "https://api.hh.ru/vacancies/106011596?host=hh.ru"
             },
             {
-                "id": "106079872",
-                "title": "Front-end разработчик",
-                "city": "Казань",
-                "salary_from": 60000,
-                "salary_to": 80000,
-                "link": "https://api.hh.ru/vacancies/106079872?host=hh.ru"
+                "id": "106011862",
+                "title": "Frontend разработчик (Легкая Дистрибуция)",
+                "city": "Москва",
+                "salary_from": 150000,
+                "salary_to": 180000,
+                "link": "https://api.hh.ru/vacancies/106011862?host=hh.ru"
             },
             {
                 "id": "106114799",
@@ -3084,6 +3076,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106114799?host=hh.ru"
+            },
+            {
+                "id": "106079872",
+                "title": "Front-end разработчик",
+                "city": "Казань",
+                "salary_from": 60000,
+                "salary_to": 80000,
+                "link": "https://api.hh.ru/vacancies/106079872?host=hh.ru"
             },
             {
                 "id": "105462156",
@@ -3102,6 +3102,14 @@
                 "link": "https://api.hh.ru/vacancies/105799194?host=hh.ru"
             },
             {
+                "id": "106185619",
+                "title": "Frontend разработчик",
+                "city": "Смоленск",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106185619?host=hh.ru"
+            },
+            {
                 "id": "105844872",
                 "title": "Frontend-разработчик",
                 "city": "Минск",
@@ -3118,28 +3126,12 @@
                 "link": "https://api.hh.ru/vacancies/106103519?host=hh.ru"
             },
             {
-                "id": "106185619",
-                "title": "Frontend разработчик",
-                "city": "Смоленск",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106185619?host=hh.ru"
-            },
-            {
                 "id": "105277445",
                 "title": "Junior Frontend Developer (стажер)",
                 "city": "Санкт-Петербург",
                 "salary_from": 30000,
                 "salary_to": 50000,
                 "link": "https://api.hh.ru/vacancies/105277445?host=hh.ru"
-            },
-            {
-                "id": "106267364",
-                "title": "Middle Frontend Software Engineer (Брест)",
-                "city": "Брест",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106267364?host=hh.ru"
             },
             {
                 "id": "106017490",
@@ -3150,6 +3142,14 @@
                 "link": "https://api.hh.ru/vacancies/106017490?host=hh.ru"
             },
             {
+                "id": "106009426",
+                "title": "Frontend-разработчик React (Senior)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106009426?host=hh.ru"
+            },
+            {
                 "id": "105529427",
                 "title": "Frontend-разработчик / инженер-проектировщик MES",
                 "city": "Санкт-Петербург",
@@ -3158,12 +3158,12 @@
                 "link": "https://api.hh.ru/vacancies/105529427?host=hh.ru"
             },
             {
-                "id": "106009426",
-                "title": "Frontend-разработчик React (Senior)",
-                "city": "Москва",
+                "id": "106267364",
+                "title": "Middle Frontend Software Engineer (Брест)",
+                "city": "Брест",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106009426?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106267364?host=hh.ru"
             },
             {
                 "id": "105720160",
@@ -3174,20 +3174,20 @@
                 "link": "https://api.hh.ru/vacancies/105720160?host=hh.ru"
             },
             {
-                "id": "105875136",
-                "title": "Frontend-разработчик в Информационные корпоративные сервисы",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105875136?host=hh.ru"
-            },
-            {
                 "id": "104094190",
                 "title": "Frontend Developer",
                 "city": "Самара",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104094190?host=hh.ru"
+            },
+            {
+                "id": "105875136",
+                "title": "Frontend-разработчик в Информационные корпоративные сервисы",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105875136?host=hh.ru"
             },
             {
                 "id": "105637735",
@@ -3322,20 +3322,20 @@
                 "link": "https://api.hh.ru/vacancies/106136111?host=hh.ru"
             },
             {
-                "id": "106215345",
-                "title": "Backend-разработчик python",
-                "city": "Тюмень",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106215345?host=hh.ru"
-            },
-            {
                 "id": "105986796",
                 "title": "Python-разработчик",
                 "city": "Минск",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105986796?host=hh.ru"
+            },
+            {
+                "id": "106215345",
+                "title": "Backend-разработчик python",
+                "city": "Тюмень",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106215345?host=hh.ru"
             },
             {
                 "id": "105986565",
@@ -3442,14 +3442,6 @@
                 "link": "https://api.hh.ru/vacancies/106275708?host=hh.ru"
             },
             {
-                "id": "106009019",
-                "title": "Python Developer",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106009019?host=hh.ru"
-            },
-            {
                 "id": "104991336",
                 "title": "Junior python (django) разработчик",
                 "city": "Санкт-Петербург",
@@ -3458,12 +3450,12 @@
                 "link": "https://api.hh.ru/vacancies/104991336?host=hh.ru"
             },
             {
-                "id": "106175279",
-                "title": "Разработчик Python",
+                "id": "106009019",
+                "title": "Python Developer",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106175279?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106009019?host=hh.ru"
             },
             {
                 "id": "105665279",
@@ -3474,12 +3466,12 @@
                 "link": "https://api.hh.ru/vacancies/105665279?host=hh.ru"
             },
             {
-                "id": "106259233",
-                "title": "Python Developer / Backend-разработчик",
+                "id": "106175279",
+                "title": "Разработчик Python",
                 "city": "Москва",
-                "salary_from": 200000,
-                "salary_to": 350000,
-                "link": "https://api.hh.ru/vacancies/106259233?host=hh.ru"
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106175279?host=hh.ru"
             },
             {
                 "id": "104690808",
@@ -3488,6 +3480,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104690808?host=hh.ru"
+            },
+            {
+                "id": "106259233",
+                "title": "Python Developer / Backend-разработчик",
+                "city": "Москва",
+                "salary_from": 200000,
+                "salary_to": 350000,
+                "link": "https://api.hh.ru/vacancies/106259233?host=hh.ru"
             },
             {
                 "id": "106109534",
@@ -3506,20 +3506,20 @@
                 "link": "https://api.hh.ru/vacancies/105940763?host=hh.ru"
             },
             {
-                "id": "104932854",
-                "title": "Middle Python разработчик",
-                "city": "Москва",
-                "salary_from": 150000,
-                "salary_to": 200000,
-                "link": "https://api.hh.ru/vacancies/104932854?host=hh.ru"
-            },
-            {
                 "id": "100502794",
                 "title": "Python developer",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/100502794?host=hh.ru"
+            },
+            {
+                "id": "104932854",
+                "title": "Middle Python разработчик",
+                "city": "Москва",
+                "salary_from": 150000,
+                "salary_to": 200000,
+                "link": "https://api.hh.ru/vacancies/104932854?host=hh.ru"
             },
             {
                 "id": "105681092",
@@ -3538,14 +3538,6 @@
                 "link": "https://api.hh.ru/vacancies/106192644?host=hh.ru"
             },
             {
-                "id": "105234806",
-                "title": "Python разработчик",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105234806?host=hh.ru"
-            },
-            {
                 "id": "105264524",
                 "title": "Программист Python",
                 "city": "Воронеж",
@@ -3560,6 +3552,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105795169?host=hh.ru"
+            },
+            {
+                "id": "105234806",
+                "title": "Python разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105234806?host=hh.ru"
             },
             {
                 "id": "105398902",
@@ -3578,20 +3578,20 @@
                 "link": "https://api.hh.ru/vacancies/106101244?host=hh.ru"
             },
             {
-                "id": "106252312",
-                "title": "Middle Python backend developer (FastAPI)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/106252312?host=hh.ru"
-            },
-            {
                 "id": "104886378",
                 "title": "Python разработчик",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": 150000,
                 "link": "https://api.hh.ru/vacancies/104886378?host=hh.ru"
+            },
+            {
+                "id": "106252312",
+                "title": "Middle Python backend developer (FastAPI)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/106252312?host=hh.ru"
             },
             {
                 "id": "105822309",
@@ -3642,20 +3642,20 @@
                 "link": "https://api.hh.ru/vacancies/106040532?host=hh.ru"
             },
             {
-                "id": "104861159",
-                "title": "Python разработчик Стажер",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104861159?host=hh.ru"
-            },
-            {
                 "id": "105724053",
                 "title": "Python developer",
                 "city": "Минск",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105724053?host=hh.ru"
+            },
+            {
+                "id": "104861159",
+                "title": "Python разработчик Стажер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104861159?host=hh.ru"
             },
             {
                 "id": "106021415",
@@ -3698,20 +3698,20 @@
                 "link": "https://api.hh.ru/vacancies/105994259?host=hh.ru"
             },
             {
-                "id": "106007277",
-                "title": "Backend разработчик Python (Django)",
-                "city": "Санкт-Петербург",
-                "salary_from": 120000,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/106007277?host=hh.ru"
-            },
-            {
                 "id": "105998858",
                 "title": "Python разработчик",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105998858?host=hh.ru"
+            },
+            {
+                "id": "106007277",
+                "title": "Backend разработчик Python (Django)",
+                "city": "Санкт-Петербург",
+                "salary_from": 120000,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/106007277?host=hh.ru"
             },
             {
                 "id": "105911362",
@@ -3738,20 +3738,20 @@
                 "link": "https://api.hh.ru/vacancies/103885193?host=hh.ru"
             },
             {
-                "id": "105931088",
-                "title": "Разработчик Python",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105931088?host=hh.ru"
-            },
-            {
                 "id": "105943943",
                 "title": "Backend-разработчик (Python)",
                 "city": "Алматы",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105943943?host=hh.ru"
+            },
+            {
+                "id": "105931088",
+                "title": "Разработчик Python",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105931088?host=hh.ru"
             },
             {
                 "id": "105802778",
@@ -3778,12 +3778,12 @@
                 "link": "https://api.hh.ru/vacancies/105837770?host=hh.ru"
             },
             {
-                "id": "104842327",
-                "title": "Python developer (Junior+)",
-                "city": "Минск",
-                "salary_from": 700,
+                "id": "105712134",
+                "title": "Middle/Senior Python Developer",
+                "city": "Москва",
+                "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104842327?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105712134?host=hh.ru"
             },
             {
                 "id": "104896344",
@@ -3794,12 +3794,12 @@
                 "link": "https://api.hh.ru/vacancies/104896344?host=hh.ru"
             },
             {
-                "id": "105712134",
-                "title": "Middle/Senior Python Developer",
-                "city": "Москва",
-                "salary_from": null,
+                "id": "104842327",
+                "title": "Python developer (Junior+)",
+                "city": "Минск",
+                "salary_from": 700,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105712134?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/104842327?host=hh.ru"
             },
             {
                 "id": "106217330",
@@ -3818,6 +3818,14 @@
                 "link": "https://api.hh.ru/vacancies/106245266?host=hh.ru"
             },
             {
+                "id": "105724706",
+                "title": "Backend-разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105724706?host=hh.ru"
+            },
+            {
                 "id": "105128710",
                 "title": "Python Developer",
                 "city": "Пенза",
@@ -3832,14 +3840,6 @@
                 "salary_from": null,
                 "salary_to": 320000,
                 "link": "https://api.hh.ru/vacancies/105954091?host=hh.ru"
-            },
-            {
-                "id": "105724706",
-                "title": "Backend-разработчик",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105724706?host=hh.ru"
             },
             {
                 "id": "105239186",
@@ -3858,20 +3858,20 @@
                 "link": "https://api.hh.ru/vacancies/105799450?host=hh.ru"
             },
             {
-                "id": "105238770",
-                "title": "Middle бекэнд python разработчик",
-                "city": "Ташкент",
-                "salary_from": 500,
-                "salary_to": 1500,
-                "link": "https://api.hh.ru/vacancies/105238770?host=hh.ru"
-            },
-            {
                 "id": "104833774",
                 "title": "Python-разработчик (Django, FastAPI)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": 250000,
                 "link": "https://api.hh.ru/vacancies/104833774?host=hh.ru"
+            },
+            {
+                "id": "105238770",
+                "title": "Middle бекэнд python разработчик",
+                "city": "Ташкент",
+                "salary_from": 500,
+                "salary_to": 1500,
+                "link": "https://api.hh.ru/vacancies/105238770?host=hh.ru"
             },
             {
                 "id": "106125995",
@@ -3882,14 +3882,6 @@
                 "link": "https://api.hh.ru/vacancies/106125995?host=hh.ru"
             },
             {
-                "id": "105292663",
-                "title": "Python-разработчик (Middle, Middle+)",
-                "city": "Тюмень",
-                "salary_from": 100000,
-                "salary_to": 180000,
-                "link": "https://api.hh.ru/vacancies/105292663?host=hh.ru"
-            },
-            {
                 "id": "105799451",
                 "title": "Python разработчик",
                 "city": "Москва",
@@ -3898,12 +3890,12 @@
                 "link": "https://api.hh.ru/vacancies/105799451?host=hh.ru"
             },
             {
-                "id": "98625238",
-                "title": "Python разработчик",
-                "city": "Нижний Новгород",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/98625238?host=hh.ru"
+                "id": "105292663",
+                "title": "Python-разработчик (Middle, Middle+)",
+                "city": "Тюмень",
+                "salary_from": 100000,
+                "salary_to": 180000,
+                "link": "https://api.hh.ru/vacancies/105292663?host=hh.ru"
             },
             {
                 "id": "106173310",
@@ -3912,6 +3904,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106173310?host=hh.ru"
+            },
+            {
+                "id": "98625238",
+                "title": "Python разработчик",
+                "city": "Нижний Новгород",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/98625238?host=hh.ru"
             },
             {
                 "id": "105334747",
@@ -3930,20 +3930,20 @@
                 "link": "https://api.hh.ru/vacancies/105535967?host=hh.ru"
             },
             {
-                "id": "105941779",
-                "title": "Middle Python Backend Developer (AI-startup)",
-                "city": "Казань",
-                "salary_from": 60000,
-                "salary_to": 160000,
-                "link": "https://api.hh.ru/vacancies/105941779?host=hh.ru"
-            },
-            {
                 "id": "104690859",
                 "title": "Junior Python Developer",
                 "city": "Томск",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104690859?host=hh.ru"
+            },
+            {
+                "id": "105941779",
+                "title": "Middle Python Backend Developer (AI-startup)",
+                "city": "Казань",
+                "salary_from": 60000,
+                "salary_to": 160000,
+                "link": "https://api.hh.ru/vacancies/105941779?host=hh.ru"
             },
             {
                 "id": "105460325",
@@ -4150,20 +4150,20 @@
                 "link": "https://api.hh.ru/vacancies/106204046?host=hh.ru"
             },
             {
-                "id": "105860298",
-                "title": "Middle/Senior Java Developer",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105860298?host=hh.ru"
-            },
-            {
                 "id": "105995714",
                 "title": "Middle VueJS developer",
                 "city": "Краснодар",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105995714?host=hh.ru"
+            },
+            {
+                "id": "105860298",
+                "title": "Middle/Senior Java Developer",
+                "city": "Санкт-Петербург",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105860298?host=hh.ru"
             },
             {
                 "id": "106017582",
@@ -4222,12 +4222,12 @@
                 "link": "https://api.hh.ru/vacancies/105352148?host=hh.ru"
             },
             {
-                "id": "106137136",
-                "title": "Графический дизайнер в агентство – SMM, Digital",
+                "id": "97912632",
+                "title": "Программист Backend (Middle/Junior+ developer. Разработчик Go, PostgreSQL, GORM)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106137136?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/97912632?host=hh.ru"
             },
             {
                 "id": "105775040",
@@ -4238,12 +4238,12 @@
                 "link": "https://api.hh.ru/vacancies/105775040?host=hh.ru"
             },
             {
-                "id": "97912632",
-                "title": "Программист Backend (Middle/Junior+ developer. Разработчик Go, PostgreSQL, GORM)",
+                "id": "106137136",
+                "title": "Графический дизайнер в агентство – SMM, Digital",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/97912632?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106137136?host=hh.ru"
             },
             {
                 "id": "106258310",
@@ -4270,20 +4270,20 @@
                 "link": "https://api.hh.ru/vacancies/105751828?host=hh.ru"
             },
             {
-                "id": "105067753",
-                "title": "Frontend разработчик на Vue3 (middle/senior)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105067753?host=hh.ru"
-            },
-            {
                 "id": "104843864",
                 "title": "Менеджер проектов / аккаунт-менеджер",
                 "city": "Владимир",
                 "salary_from": null,
                 "salary_to": 100000,
                 "link": "https://api.hh.ru/vacancies/104843864?host=hh.ru"
+            },
+            {
+                "id": "105067753",
+                "title": "Frontend разработчик на Vue3 (middle/senior)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105067753?host=hh.ru"
             },
             {
                 "id": "103137882",
@@ -4374,6 +4374,14 @@
                 "link": "https://api.hh.ru/vacancies/104833681?host=hh.ru"
             },
             {
+                "id": "105929891",
+                "title": "Business Analyst",
+                "city": "Минск",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105929891?host=hh.ru"
+            },
+            {
                 "id": "101443750",
                 "title": "QA-инженер Middle (удаленно)",
                 "city": "Самара",
@@ -4382,12 +4390,12 @@
                 "link": "https://api.hh.ru/vacancies/101443750?host=hh.ru"
             },
             {
-                "id": "105929891",
-                "title": "Business Analyst",
-                "city": "Минск",
+                "id": "105822095",
+                "title": "PR-менеджер",
+                "city": "Санкт-Петербург",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105929891?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105822095?host=hh.ru"
             },
             {
                 "id": "105861529",
@@ -4398,12 +4406,20 @@
                 "link": "https://api.hh.ru/vacancies/105861529?host=hh.ru"
             },
             {
-                "id": "105822095",
-                "title": "PR-менеджер",
-                "city": "Санкт-Петербург",
+                "id": "104859672",
+                "title": "Менеджер проектов в IT/Digital (Junior / Middle уровень)",
+                "city": "Ростов-на-Дону",
+                "salary_from": 50000,
+                "salary_to": 90000,
+                "link": "https://api.hh.ru/vacancies/104859672?host=hh.ru"
+            },
+            {
+                "id": "106272375",
+                "title": "Middle дизайнер UI/UX",
+                "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105822095?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106272375?host=hh.ru"
             },
             {
                 "id": "105728225",
@@ -4420,6 +4436,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105808794?host=hh.ru"
+            },
+            {
+                "id": "104705732",
+                "title": "QA Инженер (Middle/Senior)",
+                "city": "Санкт-Петербург",
+                "salary_from": 204700,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104705732?host=hh.ru"
             },
             {
                 "id": "104643159",
@@ -4446,12 +4470,12 @@
                 "link": "https://api.hh.ru/vacancies/105503972?host=hh.ru"
             },
             {
-                "id": "104705732",
-                "title": "QA Инженер (Middle/Senior)",
-                "city": "Санкт-Петербург",
-                "salary_from": 204700,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104705732?host=hh.ru"
+                "id": "106282417",
+                "title": "Executive assistant to CEO of blockchain platform Everclear",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 4000,
+                "link": "https://api.hh.ru/vacancies/106282417?host=hh.ru"
             },
             {
                 "id": "105323535",
@@ -4462,22 +4486,6 @@
                 "link": "https://api.hh.ru/vacancies/105323535?host=hh.ru"
             },
             {
-                "id": "106272375",
-                "title": "Middle дизайнер UI/UX",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106272375?host=hh.ru"
-            },
-            {
-                "id": "104859672",
-                "title": "Менеджер проектов в IT/Digital (Junior / Middle уровень)",
-                "city": "Ростов-на-Дону",
-                "salary_from": 50000,
-                "salary_to": 90000,
-                "link": "https://api.hh.ru/vacancies/104859672?host=hh.ru"
-            },
-            {
                 "id": "105333837",
                 "title": "Middle PR-manager",
                 "city": "Москва",
@@ -4486,20 +4494,20 @@
                 "link": "https://api.hh.ru/vacancies/105333837?host=hh.ru"
             },
             {
-                "id": "105899907",
-                "title": "Дизайнер UX/UI/Product designer/Продуктовый дизайнер",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105899907?host=hh.ru"
-            },
-            {
                 "id": "106160071",
                 "title": "Менеджер IT-проектов (middle)",
                 "city": "Санкт-Петербург",
                 "salary_from": 80000,
                 "salary_to": 100000,
                 "link": "https://api.hh.ru/vacancies/106160071?host=hh.ru"
+            },
+            {
+                "id": "105899907",
+                "title": "Дизайнер UX/UI/Product designer/Продуктовый дизайнер",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105899907?host=hh.ru"
             },
             {
                 "id": "105842732",
@@ -4526,20 +4534,20 @@
                 "link": "https://api.hh.ru/vacancies/103265583?host=hh.ru"
             },
             {
-                "id": "106282417",
-                "title": "Executive assistant to CEO of blockchain platform Everclear",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": 4000,
-                "link": "https://api.hh.ru/vacancies/106282417?host=hh.ru"
-            },
-            {
                 "id": "90308751",
                 "title": "IT Product manager (middle)",
                 "city": "Новосибирск",
                 "salary_from": 150000,
                 "salary_to": 250000,
                 "link": "https://api.hh.ru/vacancies/90308751?host=hh.ru"
+            },
+            {
+                "id": "102333528",
+                "title": "Middle Фронтенд веб-разработчик (Vue.js) / Middle Frontend web developer",
+                "city": "Самара",
+                "salary_from": 100000,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/102333528?host=hh.ru"
             },
             {
                 "id": "105124003",
@@ -4556,14 +4564,6 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105775005?host=hh.ru"
-            },
-            {
-                "id": "102333528",
-                "title": "Middle Фронтенд веб-разработчик (Vue.js) / Middle Frontend web developer",
-                "city": "Самара",
-                "salary_from": 100000,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/102333528?host=hh.ru"
             },
             {
                 "id": "105757875",
@@ -4590,20 +4590,20 @@
                 "link": "https://api.hh.ru/vacancies/106048504?host=hh.ru"
             },
             {
-                "id": "105047629",
-                "title": "Middle Backend Developer (Node.js)",
-                "city": "Киров (Кировская область)",
-                "salary_from": 140000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105047629?host=hh.ru"
-            },
-            {
                 "id": "103587579",
                 "title": "Middle IT Project Manager",
                 "city": "Москва",
                 "salary_from": 120000,
                 "salary_to": 150000,
                 "link": "https://api.hh.ru/vacancies/103587579?host=hh.ru"
+            },
+            {
+                "id": "105047629",
+                "title": "Middle Backend Developer (Node.js)",
+                "city": "Киров (Кировская область)",
+                "salary_from": 140000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105047629?host=hh.ru"
             },
             {
                 "id": "106139769",
@@ -4646,22 +4646,6 @@
                 "link": "https://api.hh.ru/vacancies/103138041?host=hh.ru"
             },
             {
-                "id": "84002831",
-                "title": "Менеджер проектов (Customer success manager)",
-                "city": "Москва",
-                "salary_from": 90000,
-                "salary_to": 130000,
-                "link": "https://api.hh.ru/vacancies/84002831?host=hh.ru"
-            },
-            {
-                "id": "105674240",
-                "title": "Middle /Senior Project Manager (Мобильная Разработка)",
-                "city": "Минск",
-                "salary_from": 2000,
-                "salary_to": 2500,
-                "link": "https://api.hh.ru/vacancies/105674240?host=hh.ru"
-            },
-            {
                 "id": "105757567",
                 "title": "React Native разработчик",
                 "city": "Санкт-Петербург",
@@ -4670,12 +4654,28 @@
                 "link": "https://api.hh.ru/vacancies/105757567?host=hh.ru"
             },
             {
+                "id": "84002831",
+                "title": "Менеджер проектов (Customer success manager)",
+                "city": "Москва",
+                "salary_from": 90000,
+                "salary_to": 130000,
+                "link": "https://api.hh.ru/vacancies/84002831?host=hh.ru"
+            },
+            {
                 "id": "105503973",
                 "title": "Менеджер-продукта / Middle",
                 "city": "Тамбов",
                 "salary_from": 110000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105503973?host=hh.ru"
+            },
+            {
+                "id": "105674240",
+                "title": "Middle /Senior Project Manager (Мобильная Разработка)",
+                "city": "Минск",
+                "salary_from": 2000,
+                "salary_to": 2500,
+                "link": "https://api.hh.ru/vacancies/105674240?host=hh.ru"
             },
             {
                 "id": "106113569",
@@ -4718,6 +4718,14 @@
                 "link": "https://api.hh.ru/vacancies/105034120?host=hh.ru"
             },
             {
+                "id": "105649869",
+                "title": "Project Manager Trainee",
+                "city": "Минск",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105649869?host=hh.ru"
+            },
+            {
                 "id": "105121211",
                 "title": "Разработчик тестовых печатных плат (Middle)",
                 "city": "Москва",
@@ -4742,20 +4750,12 @@
                 "link": "https://api.hh.ru/vacancies/105920998?host=hh.ru"
             },
             {
-                "id": "105649869",
-                "title": "Project Manager Trainee",
-                "city": "Минск",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105649869?host=hh.ru"
-            },
-            {
-                "id": "104990701",
-                "title": "Middle QA engineer (Mobile)",
+                "id": "103080589",
+                "title": "Системный аналитик Middle (Астра Консалтинг)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104990701?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/103080589?host=hh.ru"
             },
             {
                 "id": "93166173",
@@ -4766,20 +4766,20 @@
                 "link": "https://api.hh.ru/vacancies/93166173?host=hh.ru"
             },
             {
-                "id": "103080589",
-                "title": "Системный аналитик Middle (Астра Консалтинг)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/103080589?host=hh.ru"
-            },
-            {
                 "id": "103050889",
                 "title": "Senior Project Manager",
                 "city": "Санкт-Петербург",
                 "salary_from": 150000,
                 "salary_to": 200000,
                 "link": "https://api.hh.ru/vacancies/103050889?host=hh.ru"
+            },
+            {
+                "id": "104990701",
+                "title": "Middle QA engineer (Mobile)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104990701?host=hh.ru"
             },
             {
                 "id": "102923805",
@@ -4806,20 +4806,20 @@
                 "link": "https://api.hh.ru/vacancies/104137765?host=hh.ru"
             },
             {
+                "id": "103082585",
+                "title": "Linux middle инженер (Астра Консалтинг)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/103082585?host=hh.ru"
+            },
+            {
                 "id": "106182314",
                 "title": "Технический руководитель разработки / Tech Lead",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106182314?host=hh.ru"
-            },
-            {
-                "id": "105655341",
-                "title": "Веб дизайнер (Middle)",
-                "city": "Волгоград",
-                "salary_from": 70000,
-                "salary_to": 100000,
-                "link": "https://api.hh.ru/vacancies/105655341?host=hh.ru"
             }
         ]
     },
@@ -4866,20 +4866,20 @@
                 "link": "https://api.hh.ru/vacancies/105338726?host=hh.ru"
             },
             {
-                "id": "106152087",
-                "title": "IT Интерн",
-                "city": "Алматы",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106152087?host=hh.ru"
-            },
-            {
                 "id": "106116006",
                 "title": "Стажёр-разработчик Python / Менти",
                 "city": "Калининград",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106116006?host=hh.ru"
+            },
+            {
+                "id": "106152087",
+                "title": "IT Интерн",
+                "city": "Алматы",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106152087?host=hh.ru"
             },
             {
                 "id": "96425920",
@@ -4898,14 +4898,6 @@
                 "link": "https://api.hh.ru/vacancies/104857154?host=hh.ru"
             },
             {
-                "id": "105985454",
-                "title": "Frontend developer",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105985454?host=hh.ru"
-            },
-            {
                 "id": "105394925",
                 "title": "Junior Backend разработчик (Python)",
                 "city": "Москва",
@@ -4914,12 +4906,28 @@
                 "link": "https://api.hh.ru/vacancies/105394925?host=hh.ru"
             },
             {
+                "id": "105985454",
+                "title": "Frontend developer",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105985454?host=hh.ru"
+            },
+            {
                 "id": "106243131",
                 "title": "QA Engineer",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106243131?host=hh.ru"
+            },
+            {
+                "id": "90450953",
+                "title": "BI разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/90450953?host=hh.ru"
             },
             {
                 "id": "105924400",
@@ -4938,12 +4946,12 @@
                 "link": "https://api.hh.ru/vacancies/106174538?host=hh.ru"
             },
             {
-                "id": "90450953",
-                "title": "BI разработчик",
-                "city": "Москва",
+                "id": "105946243",
+                "title": "Python-разработчик (junior)",
+                "city": "Санкт-Петербург",
                 "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/90450953?host=hh.ru"
+                "salary_to": 60000,
+                "link": "https://api.hh.ru/vacancies/105946243?host=hh.ru"
             },
             {
                 "id": "106080066",
@@ -4952,14 +4960,6 @@
                 "salary_from": 120000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106080066?host=hh.ru"
-            },
-            {
-                "id": "105946243",
-                "title": "Python-разработчик (junior)",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": 60000,
-                "link": "https://api.hh.ru/vacancies/105946243?host=hh.ru"
             },
             {
                 "id": "105515848",
@@ -4986,14 +4986,6 @@
                 "link": "https://api.hh.ru/vacancies/105931326?host=hh.ru"
             },
             {
-                "id": "106238438",
-                "title": "Junior Data Scientist",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106238438?host=hh.ru"
-            },
-            {
                 "id": "104227650",
                 "title": "Backend разработчик (Python)",
                 "city": "Иркутск",
@@ -5002,12 +4994,12 @@
                 "link": "https://api.hh.ru/vacancies/104227650?host=hh.ru"
             },
             {
-                "id": "106137990",
-                "title": "Frontend Developer Team Bravo",
-                "city": "Тбилиси",
+                "id": "106238438",
+                "title": "Junior Data Scientist",
+                "city": "Санкт-Петербург",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106137990?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106238438?host=hh.ru"
             },
             {
                 "id": "106242609",
@@ -5024,6 +5016,14 @@
                 "salary_from": 45000,
                 "salary_to": 120000,
                 "link": "https://api.hh.ru/vacancies/105357916?host=hh.ru"
+            },
+            {
+                "id": "106137990",
+                "title": "Frontend Developer Team Bravo",
+                "city": "Тбилиси",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106137990?host=hh.ru"
             },
             {
                 "id": "106242723",
@@ -5066,20 +5066,20 @@
                 "link": "https://api.hh.ru/vacancies/105381859?host=hh.ru"
             },
             {
-                "id": "106086203",
-                "title": "Python-разработчик",
-                "city": "Москва",
-                "salary_from": 100000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106086203?host=hh.ru"
-            },
-            {
                 "id": "106235778",
                 "title": "Junior Python / Go Developer (Microservices)",
                 "city": "Нижний Новгород",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106235778?host=hh.ru"
+            },
+            {
+                "id": "106086203",
+                "title": "Python-разработчик",
+                "city": "Москва",
+                "salary_from": 100000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106086203?host=hh.ru"
             },
             {
                 "id": "106262464",
@@ -5146,6 +5146,14 @@
                 "link": "https://api.hh.ru/vacancies/106002970?host=hh.ru"
             },
             {
+                "id": "106086061",
+                "title": "QA Engineer",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106086061?host=hh.ru"
+            },
+            {
                 "id": "105787563",
                 "title": "Стажер-разработчик",
                 "city": "Санкт-Петербург",
@@ -5154,12 +5162,12 @@
                 "link": "https://api.hh.ru/vacancies/105787563?host=hh.ru"
             },
             {
-                "id": "106086061",
-                "title": "QA Engineer",
+                "id": "105454763",
+                "title": "Программист-разработчик Python",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106086061?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105454763?host=hh.ru"
             },
             {
                 "id": "106235207",
@@ -5176,14 +5184,6 @@
                 "salary_from": 70000,
                 "salary_to": 100000,
                 "link": "https://api.hh.ru/vacancies/105043389?host=hh.ru"
-            },
-            {
-                "id": "105454763",
-                "title": "Программист-разработчик Python",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105454763?host=hh.ru"
             },
             {
                 "id": "106252385",
@@ -5210,12 +5210,12 @@
                 "link": "https://api.hh.ru/vacancies/106041214?host=hh.ru"
             },
             {
-                "id": "105782745",
-                "title": "Python developer",
+                "id": "105651593",
+                "title": "Intern Python Developer / Стажер Python-разработчик",
                 "city": "Москва",
-                "salary_from": null,
+                "salary_from": 200000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105782745?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105651593?host=hh.ru"
             },
             {
                 "id": "80952717",
@@ -5226,20 +5226,20 @@
                 "link": "https://api.hh.ru/vacancies/80952717?host=hh.ru"
             },
             {
+                "id": "105782745",
+                "title": "Python developer",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105782745?host=hh.ru"
+            },
+            {
                 "id": "105905376",
                 "title": "Аналитик данных Junior",
                 "city": "Екатеринбург",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105905376?host=hh.ru"
-            },
-            {
-                "id": "105651593",
-                "title": "Intern Python Developer / Стажер Python-разработчик",
-                "city": "Москва",
-                "salary_from": 200000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105651593?host=hh.ru"
             },
             {
                 "id": "106172260",
@@ -5258,20 +5258,20 @@
                 "link": "https://api.hh.ru/vacancies/106044852?host=hh.ru"
             },
             {
-                "id": "106221487",
-                "title": "Python-разработчик",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106221487?host=hh.ru"
-            },
-            {
                 "id": "105394247",
                 "title": "Junior Backend разработчик (Golang)",
                 "city": "Москва",
                 "salary_from": 110000,
                 "salary_to": 200000,
                 "link": "https://api.hh.ru/vacancies/105394247?host=hh.ru"
+            },
+            {
+                "id": "106221487",
+                "title": "Python-разработчик",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106221487?host=hh.ru"
             },
             {
                 "id": "105739093",
@@ -5290,6 +5290,14 @@
                 "link": "https://api.hh.ru/vacancies/106136111?host=hh.ru"
             },
             {
+                "id": "105997458",
+                "title": "Junior Python-программист",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105997458?host=hh.ru"
+            },
+            {
                 "id": "106275726",
                 "title": "Middle Back-end разработчик (Python, PostgreSQL, FastAPI)",
                 "city": "Ханты-Мансийск",
@@ -5304,14 +5312,6 @@
                 "salary_from": 120000,
                 "salary_to": 160000,
                 "link": "https://api.hh.ru/vacancies/105358654?host=hh.ru"
-            },
-            {
-                "id": "105997458",
-                "title": "Junior Python-программист",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105997458?host=hh.ru"
             },
             {
                 "id": "105925196",
@@ -5338,14 +5338,6 @@
                 "link": "https://api.hh.ru/vacancies/106197714?host=hh.ru"
             },
             {
-                "id": "106215345",
-                "title": "Backend-разработчик python",
-                "city": "Тюмень",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106215345?host=hh.ru"
-            },
-            {
                 "id": "105986796",
                 "title": "Python-разработчик",
                 "city": "Минск",
@@ -5362,12 +5354,28 @@
                 "link": "https://api.hh.ru/vacancies/106199455?host=hh.ru"
             },
             {
+                "id": "106215345",
+                "title": "Backend-разработчик python",
+                "city": "Тюмень",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106215345?host=hh.ru"
+            },
+            {
                 "id": "105312260",
                 "title": "Junior Разработчик-алгоритмист (JavaScript/TypeScript)",
                 "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105312260?host=hh.ru"
+            },
+            {
+                "id": "106273436",
+                "title": "Middle Backend Python программист",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106273436?host=hh.ru"
             },
             {
                 "id": "101306846",
@@ -5384,14 +5392,6 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105986565?host=hh.ru"
-            },
-            {
-                "id": "106273436",
-                "title": "Middle Backend Python программист",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106273436?host=hh.ru"
             },
             {
                 "id": "105620409",
@@ -5442,12 +5442,12 @@
                 "link": "https://api.hh.ru/vacancies/106109584?host=hh.ru"
             },
             {
-                "id": "106215380",
-                "title": "SQL Аналитик/Разработчик",
+                "id": "106117185",
+                "title": "Junior Golang разработчик",
                 "city": "Москва",
-                "salary_from": 150000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106215380?host=hh.ru"
+                "salary_from": null,
+                "salary_to": 120000,
+                "link": "https://api.hh.ru/vacancies/106117185?host=hh.ru"
             },
             {
                 "id": "106215346",
@@ -5458,12 +5458,12 @@
                 "link": "https://api.hh.ru/vacancies/106215346?host=hh.ru"
             },
             {
-                "id": "106117185",
-                "title": "Junior Golang разработчик",
+                "id": "106215380",
+                "title": "SQL Аналитик/Разработчик",
                 "city": "Москва",
-                "salary_from": null,
-                "salary_to": 120000,
-                "link": "https://api.hh.ru/vacancies/106117185?host=hh.ru"
+                "salary_from": 150000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106215380?host=hh.ru"
             },
             {
                 "id": "104724178",
@@ -5482,14 +5482,6 @@
                 "link": "https://api.hh.ru/vacancies/105946488?host=hh.ru"
             },
             {
-                "id": "106231501",
-                "title": "Программист-наставник в школу программирования для детей",
-                "city": "Красногорск (Московская область)",
-                "salary_from": 180000,
-                "salary_to": 200000,
-                "link": "https://api.hh.ru/vacancies/106231501?host=hh.ru"
-            },
-            {
                 "id": "101131403",
                 "title": "Аналитик данных",
                 "city": "Москва",
@@ -5506,36 +5498,12 @@
                 "link": "https://api.hh.ru/vacancies/106047009?host=hh.ru"
             },
             {
-                "id": "106269853",
-                "title": "Middle Python Developer",
-                "city": "Москва",
-                "salary_from": 120000,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/106269853?host=hh.ru"
-            },
-            {
-                "id": "99174196",
-                "title": "Python Developer",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/99174196?host=hh.ru"
-            },
-            {
-                "id": "106076212",
-                "title": "Python Middle Developer",
-                "city": "Москва",
-                "salary_from": 100000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106076212?host=hh.ru"
-            },
-            {
-                "id": "104105338",
-                "title": "Python developer/Backend разработчик (middle)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/104105338?host=hh.ru"
+                "id": "106231501",
+                "title": "Программист-наставник в школу программирования для детей",
+                "city": "Красногорск (Московская область)",
+                "salary_from": 180000,
+                "salary_to": 200000,
+                "link": "https://api.hh.ru/vacancies/106231501?host=hh.ru"
             },
             {
                 "id": "106084190",
@@ -5546,12 +5514,28 @@
                 "link": "https://api.hh.ru/vacancies/106084190?host=hh.ru"
             },
             {
-                "id": "106127670",
-                "title": "Backend Python Developer",
-                "city": "Нижний Новгород",
+                "id": "99174196",
+                "title": "Python Developer",
+                "city": "Москва",
                 "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106127670?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/99174196?host=hh.ru"
+            },
+            {
+                "id": "106269853",
+                "title": "Middle Python Developer",
+                "city": "Москва",
+                "salary_from": 120000,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/106269853?host=hh.ru"
+            },
+            {
+                "id": "106076212",
+                "title": "Python Middle Developer",
+                "city": "Москва",
+                "salary_from": 100000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106076212?host=hh.ru"
             },
             {
                 "id": "101306471",
@@ -5560,6 +5544,14 @@
                 "salary_from": 200000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/101306471?host=hh.ru"
+            },
+            {
+                "id": "104105338",
+                "title": "Python developer/Backend разработчик (middle)",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/104105338?host=hh.ru"
             },
             {
                 "id": "105702822",
@@ -5578,12 +5570,12 @@
                 "link": "https://api.hh.ru/vacancies/106257907?host=hh.ru"
             },
             {
-                "id": "106280837",
-                "title": "Backend-разработчик",
-                "city": "Бишкек",
-                "salary_from": 40000,
+                "id": "106127670",
+                "title": "Backend Python Developer",
+                "city": "Нижний Новгород",
+                "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106280837?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106127670?host=hh.ru"
             },
             {
                 "id": "106135488",
@@ -5602,6 +5594,14 @@
                 "link": "https://api.hh.ru/vacancies/106079167?host=hh.ru"
             },
             {
+                "id": "106280837",
+                "title": "Backend-разработчик",
+                "city": "Бишкек",
+                "salary_from": 40000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106280837?host=hh.ru"
+            },
+            {
                 "id": "104904190",
                 "title": "Разработчик на Python в отдел автоматизированного тестирования",
                 "city": "Самара",
@@ -5610,20 +5610,20 @@
                 "link": "https://api.hh.ru/vacancies/104904190?host=hh.ru"
             },
             {
-                "id": "103661214",
-                "title": "Инженер Linux / Junior Devops",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/103661214?host=hh.ru"
-            },
-            {
                 "id": "106271388",
                 "title": "Специалист по работе с данными (знания SQL)",
                 "city": "Алматы",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106271388?host=hh.ru"
+            },
+            {
+                "id": "103661214",
+                "title": "Инженер Linux / Junior Devops",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/103661214?host=hh.ru"
             }
         ]
     },
@@ -5790,20 +5790,20 @@
                 "link": "https://api.hh.ru/vacancies/101940833?host=hh.ru"
             },
             {
-                "id": "100359845",
-                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
-                "city": "Саранск",
-                "salary_from": 40000,
-                "salary_to": 40000,
-                "link": "https://api.hh.ru/vacancies/100359845?host=hh.ru"
-            },
-            {
                 "id": "96549121",
                 "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
                 "city": "Красноярск",
                 "salary_from": 40000,
                 "salary_to": 40000,
                 "link": "https://api.hh.ru/vacancies/96549121?host=hh.ru"
+            },
+            {
+                "id": "100359845",
+                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
+                "city": "Саранск",
+                "salary_from": 40000,
+                "salary_to": 40000,
+                "link": "https://api.hh.ru/vacancies/100359845?host=hh.ru"
             },
             {
                 "id": "106282448",
@@ -5830,20 +5830,20 @@
                 "link": "https://api.hh.ru/vacancies/92327946?host=hh.ru"
             },
             {
-                "id": "105312068",
-                "title": "Телемаркетолог (IT)",
-                "city": "Москва",
-                "salary_from": 50000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105312068?host=hh.ru"
-            },
-            {
                 "id": "97395521",
                 "title": "QA Инженер (Middle/Senior)",
                 "city": "Москва",
                 "salary_from": 215500,
                 "salary_to": 324000,
                 "link": "https://api.hh.ru/vacancies/97395521?host=hh.ru"
+            },
+            {
+                "id": "105312068",
+                "title": "Телемаркетолог (IT)",
+                "city": "Москва",
+                "salary_from": 50000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105312068?host=hh.ru"
             },
             {
                 "id": "101316985",
@@ -5878,6 +5878,14 @@
                 "link": "https://api.hh.ru/vacancies/81468950?host=hh.ru"
             },
             {
+                "id": "106083506",
+                "title": "Графический дизайнер",
+                "city": "Красноярск",
+                "salary_from": 30000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106083506?host=hh.ru"
+            },
+            {
                 "id": "106139395",
                 "title": "Копирайтер",
                 "city": "Москва",
@@ -5902,12 +5910,12 @@
                 "link": "https://api.hh.ru/vacancies/105802417?host=hh.ru"
             },
             {
-                "id": "106083506",
-                "title": "Графический дизайнер",
-                "city": "Красноярск",
-                "salary_from": 30000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106083506?host=hh.ru"
+                "id": "103141326",
+                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
+                "city": "Архангельск",
+                "salary_from": 40000,
+                "salary_to": 40000,
+                "link": "https://api.hh.ru/vacancies/103141326?host=hh.ru"
             },
             {
                 "id": "106040865",
@@ -5918,20 +5926,20 @@
                 "link": "https://api.hh.ru/vacancies/106040865?host=hh.ru"
             },
             {
-                "id": "103141326",
-                "title": "Начинающий IT-специалист / Начинающий специалист технической поддержки",
-                "city": "Архангельск",
-                "salary_from": 40000,
-                "salary_to": 40000,
-                "link": "https://api.hh.ru/vacancies/103141326?host=hh.ru"
-            },
-            {
                 "id": "98066958",
                 "title": "Специалист технической поддержки по хостингу (2-я линия, тикеты)",
                 "city": "Москва",
                 "salary_from": 45000,
                 "salary_to": 60000,
                 "link": "https://api.hh.ru/vacancies/98066958?host=hh.ru"
+            },
+            {
+                "id": "106013208",
+                "title": "Оператор обработки данных / Оператор ПК",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 60000,
+                "link": "https://api.hh.ru/vacancies/106013208?host=hh.ru"
             },
             {
                 "id": "100360081",
@@ -5942,12 +5950,12 @@
                 "link": "https://api.hh.ru/vacancies/100360081?host=hh.ru"
             },
             {
-                "id": "106013208",
-                "title": "Оператор обработки данных / Оператор ПК",
-                "city": "Москва",
+                "id": "106239594",
+                "title": "Начинающий специалист в IT",
+                "city": "Казань",
                 "salary_from": null,
-                "salary_to": 60000,
-                "link": "https://api.hh.ru/vacancies/106013208?host=hh.ru"
+                "salary_to": 50000,
+                "link": "https://api.hh.ru/vacancies/106239594?host=hh.ru"
             },
             {
                 "id": "101498441",
@@ -5966,14 +5974,6 @@
                 "link": "https://api.hh.ru/vacancies/104067034?host=hh.ru"
             },
             {
-                "id": "106239594",
-                "title": "Начинающий специалист в IT",
-                "city": "Казань",
-                "salary_from": null,
-                "salary_to": 50000,
-                "link": "https://api.hh.ru/vacancies/106239594?host=hh.ru"
-            },
-            {
                 "id": "106044726",
                 "title": "Начинающий специалист-Тестировщик",
                 "city": "Санкт-Петербург",
@@ -5988,6 +5988,14 @@
                 "salary_from": 80000,
                 "salary_to": 120000,
                 "link": "https://api.hh.ru/vacancies/105730933?host=hh.ru"
+            },
+            {
+                "id": "106158786",
+                "title": "Менеджер чатов (на дому, в Яндекс)",
+                "city": "Химки (Московская область)",
+                "salary_from": 30000,
+                "salary_to": 45000,
+                "link": "https://api.hh.ru/vacancies/106158786?host=hh.ru"
             },
             {
                 "id": "105600492",
@@ -6006,22 +6014,6 @@
                 "link": "https://api.hh.ru/vacancies/106021413?host=hh.ru"
             },
             {
-                "id": "106158786",
-                "title": "Менеджер чатов (на дому, в Яндекс)",
-                "city": "Химки (Московская область)",
-                "salary_from": 30000,
-                "salary_to": 45000,
-                "link": "https://api.hh.ru/vacancies/106158786?host=hh.ru"
-            },
-            {
-                "id": "105043447",
-                "title": "Стажер IT",
-                "city": "Москва",
-                "salary_from": 35000,
-                "salary_to": 105000,
-                "link": "https://api.hh.ru/vacancies/105043447?host=hh.ru"
-            },
-            {
                 "id": "105245713",
                 "title": "Аналитик (стажер)",
                 "city": "Гродно",
@@ -6038,6 +6030,14 @@
                 "link": "https://api.hh.ru/vacancies/106260186?host=hh.ru"
             },
             {
+                "id": "105043447",
+                "title": "Стажер IT",
+                "city": "Москва",
+                "salary_from": 35000,
+                "salary_to": 105000,
+                "link": "https://api.hh.ru/vacancies/105043447?host=hh.ru"
+            },
+            {
                 "id": "104250485",
                 "title": "Начинающий специалист (продажи в IT)",
                 "city": "Москва",
@@ -6046,20 +6046,20 @@
                 "link": "https://api.hh.ru/vacancies/104250485?host=hh.ru"
             },
             {
-                "id": "106233616",
-                "title": "Начинающий IT специалист",
-                "city": "Омск",
-                "salary_from": 55000,
-                "salary_to": 100000,
-                "link": "https://api.hh.ru/vacancies/106233616?host=hh.ru"
-            },
-            {
                 "id": "97989807",
                 "title": "Начинающий специалист (присоединяйся к команде 2ГИС)",
                 "city": "Новосибирск",
                 "salary_from": 50000,
                 "salary_to": 65000,
                 "link": "https://api.hh.ru/vacancies/97989807?host=hh.ru"
+            },
+            {
+                "id": "106233616",
+                "title": "Начинающий IT специалист",
+                "city": "Омск",
+                "salary_from": 55000,
+                "salary_to": 100000,
+                "link": "https://api.hh.ru/vacancies/106233616?host=hh.ru"
             },
             {
                 "id": "105685975",
@@ -6078,12 +6078,12 @@
                 "link": "https://api.hh.ru/vacancies/105981509?host=hh.ru"
             },
             {
-                "id": "106141963",
-                "title": "Транскрибатор / Расшифровщик / Контент-менеджер",
-                "city": "Новосибирск",
-                "salary_from": 25000,
-                "salary_to": 40000,
-                "link": "https://api.hh.ru/vacancies/106141963?host=hh.ru"
+                "id": "103057173",
+                "title": "Стажер-программист",
+                "city": "Краснодар",
+                "salary_from": 31600,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/103057173?host=hh.ru"
             },
             {
                 "id": "106035425",
@@ -6094,20 +6094,12 @@
                 "link": "https://api.hh.ru/vacancies/106035425?host=hh.ru"
             },
             {
-                "id": "103057173",
-                "title": "Стажер-программист",
-                "city": "Краснодар",
-                "salary_from": 31600,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/103057173?host=hh.ru"
-            },
-            {
-                "id": "106070714",
-                "title": "Менеджер по продажам",
-                "city": "Краснодар",
-                "salary_from": 75000,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/106070714?host=hh.ru"
+                "id": "106141963",
+                "title": "Транскрибатор / Расшифровщик / Контент-менеджер",
+                "city": "Новосибирск",
+                "salary_from": 25000,
+                "salary_to": 40000,
+                "link": "https://api.hh.ru/vacancies/106141963?host=hh.ru"
             },
             {
                 "id": "105097171",
@@ -6116,6 +6108,14 @@
                 "salary_from": 45000,
                 "salary_to": 70000,
                 "link": "https://api.hh.ru/vacancies/105097171?host=hh.ru"
+            },
+            {
+                "id": "106070714",
+                "title": "Менеджер по продажам",
+                "city": "Краснодар",
+                "salary_from": 75000,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/106070714?host=hh.ru"
             },
             {
                 "id": "105726987",
@@ -6150,36 +6150,20 @@
                 "link": "https://api.hh.ru/vacancies/105979834?host=hh.ru"
             },
             {
-                "id": "82168742",
-                "title": "Аналитик-консультант 1С (стажер)",
-                "city": "Нижний Новгород",
-                "salary_from": 45000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/82168742?host=hh.ru"
-            },
-            {
-                "id": "85177371",
-                "title": "Начинающий менеджер по продажам недвижимости",
-                "city": "Казань",
-                "salary_from": 80000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/85177371?host=hh.ru"
-            },
-            {
-                "id": "94540463",
-                "title": "Старший специалист клиентской службы (удаленно)",
-                "city": "Тюмень",
-                "salary_from": 49000,
-                "salary_to": 63700,
-                "link": "https://api.hh.ru/vacancies/94540463?host=hh.ru"
-            },
-            {
                 "id": "105259207",
                 "title": "Оператор обработки данных / Оператор ПК",
                 "city": "Екатеринбург",
                 "salary_from": null,
                 "salary_to": 60000,
                 "link": "https://api.hh.ru/vacancies/105259207?host=hh.ru"
+            },
+            {
+                "id": "82168742",
+                "title": "Аналитик-консультант 1С (стажер)",
+                "city": "Нижний Новгород",
+                "salary_from": 45000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/82168742?host=hh.ru"
             },
             {
                 "id": "105660019",
@@ -6190,12 +6174,28 @@
                 "link": "https://api.hh.ru/vacancies/105660019?host=hh.ru"
             },
             {
+                "id": "85177371",
+                "title": "Начинающий менеджер по продажам недвижимости",
+                "city": "Казань",
+                "salary_from": 80000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/85177371?host=hh.ru"
+            },
+            {
                 "id": "105180922",
                 "title": "Менеджер чатов (в Яндекс.Маркет)",
                 "city": "Москва",
                 "salary_from": 30000,
                 "salary_to": 45000,
                 "link": "https://api.hh.ru/vacancies/105180922?host=hh.ru"
+            },
+            {
+                "id": "94540463",
+                "title": "Старший специалист клиентской службы (удаленно)",
+                "city": "Тюмень",
+                "salary_from": 49000,
+                "salary_to": 63700,
+                "link": "https://api.hh.ru/vacancies/94540463?host=hh.ru"
             },
             {
                 "id": "105981496",
@@ -6230,12 +6230,12 @@
                 "link": "https://api.hh.ru/vacancies/106180143?host=hh.ru"
             },
             {
-                "id": "105988643",
-                "title": "Менеджер по работе с партнерами (документооборот)",
-                "city": "Москва",
-                "salary_from": 50000,
-                "salary_to": 60000,
-                "link": "https://api.hh.ru/vacancies/105988643?host=hh.ru"
+                "id": "105390185",
+                "title": "Копирайтер / Контент-менеджер SMM",
+                "city": "Воронеж",
+                "salary_from": 45000,
+                "salary_to": 70000,
+                "link": "https://api.hh.ru/vacancies/105390185?host=hh.ru"
             },
             {
                 "id": "106019271",
@@ -6246,12 +6246,12 @@
                 "link": "https://api.hh.ru/vacancies/106019271?host=hh.ru"
             },
             {
-                "id": "105390185",
-                "title": "Копирайтер / Контент-менеджер SMM",
-                "city": "Воронеж",
-                "salary_from": 45000,
-                "salary_to": 70000,
-                "link": "https://api.hh.ru/vacancies/105390185?host=hh.ru"
+                "id": "105988643",
+                "title": "Менеджер по работе с партнерами (документооборот)",
+                "city": "Москва",
+                "salary_from": 50000,
+                "salary_to": 60000,
+                "link": "https://api.hh.ru/vacancies/105988643?host=hh.ru"
             },
             {
                 "id": "106174864",
@@ -6294,14 +6294,6 @@
                 "link": "https://api.hh.ru/vacancies/105999582?host=hh.ru"
             },
             {
-                "id": "105120267",
-                "title": "Печатник шелкографии",
-                "city": "Минск",
-                "salary_from": 1400,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105120267?host=hh.ru"
-            },
-            {
                 "id": "105660219",
                 "title": "Оператор обработки данных",
                 "city": "Санкт-Петербург",
@@ -6310,12 +6302,12 @@
                 "link": "https://api.hh.ru/vacancies/105660219?host=hh.ru"
             },
             {
-                "id": "105947237",
-                "title": "Менеджер чатов (на дому, в Яндекс.Маркет)",
-                "city": "Тула",
-                "salary_from": 30000,
-                "salary_to": 45000,
-                "link": "https://api.hh.ru/vacancies/105947237?host=hh.ru"
+                "id": "105120267",
+                "title": "Печатник шелкографии",
+                "city": "Минск",
+                "salary_from": 1400,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105120267?host=hh.ru"
             },
             {
                 "id": "105101264",
@@ -6324,6 +6316,14 @@
                 "salary_from": 60000,
                 "salary_to": 80000,
                 "link": "https://api.hh.ru/vacancies/105101264?host=hh.ru"
+            },
+            {
+                "id": "105947237",
+                "title": "Менеджер чатов (на дому, в Яндекс.Маркет)",
+                "city": "Тула",
+                "salary_from": 30000,
+                "salary_to": 45000,
+                "link": "https://api.hh.ru/vacancies/105947237?host=hh.ru"
             },
             {
                 "id": "105952446",
@@ -6342,6 +6342,14 @@
                 "link": "https://api.hh.ru/vacancies/105821455?host=hh.ru"
             },
             {
+                "id": "105030638",
+                "title": "Копирайтер / SMM / начинающий специалист",
+                "city": "Новосибирск",
+                "salary_from": 45000,
+                "salary_to": 70000,
+                "link": "https://api.hh.ru/vacancies/105030638?host=hh.ru"
+            },
+            {
                 "id": "105033346",
                 "title": "Маркетолог в IT стартап (джуниор)",
                 "city": "Санкт-Петербург",
@@ -6350,12 +6358,12 @@
                 "link": "https://api.hh.ru/vacancies/105033346?host=hh.ru"
             },
             {
-                "id": "105030638",
-                "title": "Копирайтер / SMM / начинающий специалист",
-                "city": "Новосибирск",
-                "salary_from": 45000,
-                "salary_to": 70000,
-                "link": "https://api.hh.ru/vacancies/105030638?host=hh.ru"
+                "id": "104897136",
+                "title": "Стажер-тестировщик",
+                "city": "Екатеринбург",
+                "salary_from": null,
+                "salary_to": 40000,
+                "link": "https://api.hh.ru/vacancies/104897136?host=hh.ru"
             },
             {
                 "id": "105405764",
@@ -6374,20 +6382,20 @@
                 "link": "https://api.hh.ru/vacancies/106009631?host=hh.ru"
             },
             {
-                "id": "104897136",
-                "title": "Стажер-тестировщик",
-                "city": "Екатеринбург",
-                "salary_from": null,
-                "salary_to": 40000,
-                "link": "https://api.hh.ru/vacancies/104897136?host=hh.ru"
-            },
-            {
                 "id": "105812269",
                 "title": "UI/UX designer (Уфа)",
                 "city": "Уфа",
                 "salary_from": 92900,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105812269?host=hh.ru"
+            },
+            {
+                "id": "105639673",
+                "title": "Копирайтер / Контент-менеджер SMM",
+                "city": "Краснодар",
+                "salary_from": 45000,
+                "salary_to": 70000,
+                "link": "https://api.hh.ru/vacancies/105639673?host=hh.ru"
             },
             {
                 "id": "106027888",
@@ -6398,12 +6406,12 @@
                 "link": "https://api.hh.ru/vacancies/106027888?host=hh.ru"
             },
             {
-                "id": "105639673",
-                "title": "Копирайтер / Контент-менеджер SMM",
-                "city": "Краснодар",
-                "salary_from": 45000,
-                "salary_to": 70000,
-                "link": "https://api.hh.ru/vacancies/105639673?host=hh.ru"
+                "id": "106040128",
+                "title": "Младший QA Инженер (Automation) (Санкт-Петербург)",
+                "city": "Санкт-Петербург",
+                "salary_from": 114500,
+                "salary_to": 204700,
+                "link": "https://api.hh.ru/vacancies/106040128?host=hh.ru"
             },
             {
                 "id": "92448029",
@@ -6420,14 +6428,6 @@
                 "salary_from": 80000,
                 "salary_to": 90000,
                 "link": "https://api.hh.ru/vacancies/104697856?host=hh.ru"
-            },
-            {
-                "id": "102906199",
-                "title": "Технический писатель (Junior)",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/102906199?host=hh.ru"
             }
         ]
     },
@@ -6466,20 +6466,20 @@
                 "link": "https://api.hh.ru/vacancies/106131795?host=hh.ru"
             },
             {
-                "id": "100358829",
-                "title": "Дежурный инженер технической поддержки",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": 120000,
-                "link": "https://api.hh.ru/vacancies/100358829?host=hh.ru"
-            },
-            {
                 "id": "104841304",
                 "title": "Системный администратор",
                 "city": "Минск",
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/104841304?host=hh.ru"
+            },
+            {
+                "id": "100358829",
+                "title": "Дежурный инженер технической поддержки",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 120000,
+                "link": "https://api.hh.ru/vacancies/100358829?host=hh.ru"
             },
             {
                 "id": "106197785",
@@ -6506,20 +6506,20 @@
                 "link": "https://api.hh.ru/vacancies/106038627?host=hh.ru"
             },
             {
+                "id": "106264430",
+                "title": "Системный администратор",
+                "city": "Челябинск",
+                "salary_from": 89300,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106264430?host=hh.ru"
+            },
+            {
                 "id": "106009803",
                 "title": "Системный администратор",
                 "city": "Алматы",
                 "salary_from": 400000,
                 "salary_to": 500000,
                 "link": "https://api.hh.ru/vacancies/106009803?host=hh.ru"
-            },
-            {
-                "id": "103698321",
-                "title": "Системный администратор",
-                "city": "Санкт-Петербург",
-                "salary_from": null,
-                "salary_to": 70000,
-                "link": "https://api.hh.ru/vacancies/103698321?host=hh.ru"
             },
             {
                 "id": "106244489",
@@ -6530,12 +6530,12 @@
                 "link": "https://api.hh.ru/vacancies/106244489?host=hh.ru"
             },
             {
-                "id": "106244483",
-                "title": "Директор по информационным технологиям (IT-директор)",
+                "id": "103698321",
+                "title": "Системный администратор",
                 "city": "Санкт-Петербург",
-                "salary_from": 250000,
-                "salary_to": 400000,
-                "link": "https://api.hh.ru/vacancies/106244483?host=hh.ru"
+                "salary_from": null,
+                "salary_to": 70000,
+                "link": "https://api.hh.ru/vacancies/103698321?host=hh.ru"
             },
             {
                 "id": "106199003",
@@ -6546,12 +6546,12 @@
                 "link": "https://api.hh.ru/vacancies/106199003?host=hh.ru"
             },
             {
-                "id": "106264430",
-                "title": "Системный администратор",
-                "city": "Челябинск",
-                "salary_from": 89300,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106264430?host=hh.ru"
+                "id": "106244483",
+                "title": "Директор по информационным технологиям (IT-директор)",
+                "city": "Санкт-Петербург",
+                "salary_from": 250000,
+                "salary_to": 400000,
+                "link": "https://api.hh.ru/vacancies/106244483?host=hh.ru"
             },
             {
                 "id": "106193416",
@@ -6560,14 +6560,6 @@
                 "salary_from": 2000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106193416?host=hh.ru"
-            },
-            {
-                "id": "106120207",
-                "title": "Системный администратор",
-                "city": "Шымкент",
-                "salary_from": 350000,
-                "salary_to": 750000,
-                "link": "https://api.hh.ru/vacancies/106120207?host=hh.ru"
             },
             {
                 "id": "102825719",
@@ -6584,6 +6576,14 @@
                 "salary_from": null,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105112214?host=hh.ru"
+            },
+            {
+                "id": "106120207",
+                "title": "Системный администратор",
+                "city": "Шымкент",
+                "salary_from": 350000,
+                "salary_to": 750000,
+                "link": "https://api.hh.ru/vacancies/106120207?host=hh.ru"
             },
             {
                 "id": "101508271",
@@ -6618,12 +6618,12 @@
                 "link": "https://api.hh.ru/vacancies/105379060?host=hh.ru"
             },
             {
-                "id": "105407995",
-                "title": "Младший системный администратор Linux",
+                "id": "106256417",
+                "title": "Ведущий системный администратор (Windows, Linux, ESXi) в LegalTech",
                 "city": "Москва",
-                "salary_from": 100000,
-                "salary_to": 150000,
-                "link": "https://api.hh.ru/vacancies/105407995?host=hh.ru"
+                "salary_from": 300000,
+                "salary_to": 400000,
+                "link": "https://api.hh.ru/vacancies/106256417?host=hh.ru"
             },
             {
                 "id": "106094049",
@@ -6634,20 +6634,20 @@
                 "link": "https://api.hh.ru/vacancies/106094049?host=hh.ru"
             },
             {
-                "id": "106256417",
-                "title": "Ведущий системный администратор (Windows, Linux, ESXi) в LegalTech",
+                "id": "105407995",
+                "title": "Младший системный администратор Linux",
                 "city": "Москва",
-                "salary_from": 300000,
-                "salary_to": 400000,
-                "link": "https://api.hh.ru/vacancies/106256417?host=hh.ru"
+                "salary_from": 100000,
+                "salary_to": 150000,
+                "link": "https://api.hh.ru/vacancies/105407995?host=hh.ru"
             },
             {
-                "id": "106244484",
-                "title": "Директор по информационным технологиям (IT-директор)",
-                "city": "Казань",
-                "salary_from": 250000,
+                "id": "106122130",
+                "title": "Системный администратор",
+                "city": "Караганда",
+                "salary_from": 200000,
                 "salary_to": 400000,
-                "link": "https://api.hh.ru/vacancies/106244484?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106122130?host=hh.ru"
             },
             {
                 "id": "106100188",
@@ -6658,12 +6658,20 @@
                 "link": "https://api.hh.ru/vacancies/106100188?host=hh.ru"
             },
             {
-                "id": "106122130",
+                "id": "106193077",
                 "title": "Системный администратор",
-                "city": "Караганда",
-                "salary_from": 200000,
+                "city": "Ташкент",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106193077?host=hh.ru"
+            },
+            {
+                "id": "106244484",
+                "title": "Директор по информационным технологиям (IT-директор)",
+                "city": "Казань",
+                "salary_from": 250000,
                 "salary_to": 400000,
-                "link": "https://api.hh.ru/vacancies/106122130?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106244484?host=hh.ru"
             },
             {
                 "id": "103571927",
@@ -6680,14 +6688,6 @@
                 "salary_from": 400000,
                 "salary_to": 700000,
                 "link": "https://api.hh.ru/vacancies/106190259?host=hh.ru"
-            },
-            {
-                "id": "106193077",
-                "title": "Системный администратор",
-                "city": "Ташкент",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106193077?host=hh.ru"
             },
             {
                 "id": "106259962",
@@ -6714,20 +6714,20 @@
                 "link": "https://api.hh.ru/vacancies/106002818?host=hh.ru"
             },
             {
-                "id": "106043181",
-                "title": "Системный администратор",
-                "city": "Брест",
-                "salary_from": 2000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106043181?host=hh.ru"
-            },
-            {
                 "id": "105950221",
                 "title": "Системный администратор",
                 "city": "Санкт-Петербург",
                 "salary_from": 1000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/105950221?host=hh.ru"
+            },
+            {
+                "id": "106043181",
+                "title": "Системный администратор",
+                "city": "Брест",
+                "salary_from": 2000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106043181?host=hh.ru"
             },
             {
                 "id": "106094325",
@@ -6746,14 +6746,6 @@
                 "link": "https://api.hh.ru/vacancies/106137605?host=hh.ru"
             },
             {
-                "id": "106132547",
-                "title": "Системный администратор",
-                "city": "Астана",
-                "salary_from": 350000,
-                "salary_to": 400000,
-                "link": "https://api.hh.ru/vacancies/106132547?host=hh.ru"
-            },
-            {
                 "id": "106177567",
                 "title": "Системный администратор",
                 "city": "Бишкек",
@@ -6768,6 +6760,14 @@
                 "salary_from": 130000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106199103?host=hh.ru"
+            },
+            {
+                "id": "106132547",
+                "title": "Системный администратор",
+                "city": "Астана",
+                "salary_from": 350000,
+                "salary_to": 400000,
+                "link": "https://api.hh.ru/vacancies/106132547?host=hh.ru"
             },
             {
                 "id": "106113103",
@@ -6818,28 +6818,12 @@
                 "link": "https://api.hh.ru/vacancies/106055060?host=hh.ru"
             },
             {
-                "id": "98066958",
-                "title": "Специалист технической поддержки по хостингу (2-я линия, тикеты)",
-                "city": "Москва",
-                "salary_from": 45000,
-                "salary_to": 60000,
-                "link": "https://api.hh.ru/vacancies/98066958?host=hh.ru"
-            },
-            {
                 "id": "106110148",
                 "title": "Помощник системного администратора в ресторан",
                 "city": "Москва",
                 "salary_from": 100000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106110148?host=hh.ru"
-            },
-            {
-                "id": "105801082",
-                "title": "Системный администратор",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": 410000,
-                "link": "https://api.hh.ru/vacancies/105801082?host=hh.ru"
             },
             {
                 "id": "106240596",
@@ -6850,20 +6834,28 @@
                 "link": "https://api.hh.ru/vacancies/106240596?host=hh.ru"
             },
             {
+                "id": "98066958",
+                "title": "Специалист технической поддержки по хостингу (2-я линия, тикеты)",
+                "city": "Москва",
+                "salary_from": 45000,
+                "salary_to": 60000,
+                "link": "https://api.hh.ru/vacancies/98066958?host=hh.ru"
+            },
+            {
+                "id": "105801082",
+                "title": "Системный администратор",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": 410000,
+                "link": "https://api.hh.ru/vacancies/105801082?host=hh.ru"
+            },
+            {
                 "id": "106119606",
                 "title": "Системный администратор (в Херсонской области)",
                 "city": "Нижний Новгород",
                 "salary_from": 130000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106119606?host=hh.ru"
-            },
-            {
-                "id": "106156961",
-                "title": "Ведущий системный администратор",
-                "city": "Нижний Новгород",
-                "salary_from": 115000,
-                "salary_to": 135000,
-                "link": "https://api.hh.ru/vacancies/106156961?host=hh.ru"
             },
             {
                 "id": "106180888",
@@ -6874,6 +6866,14 @@
                 "link": "https://api.hh.ru/vacancies/106180888?host=hh.ru"
             },
             {
+                "id": "106257999",
+                "title": "Системный администратор ( Ташкент )",
+                "city": "Ташкент",
+                "salary_from": null,
+                "salary_to": 600,
+                "link": "https://api.hh.ru/vacancies/106257999?host=hh.ru"
+            },
+            {
                 "id": "105148050",
                 "title": "Младший системный администратор",
                 "city": "Москва",
@@ -6882,12 +6882,12 @@
                 "link": "https://api.hh.ru/vacancies/105148050?host=hh.ru"
             },
             {
-                "id": "106257999",
-                "title": "Системный администратор ( Ташкент )",
-                "city": "Ташкент",
-                "salary_from": null,
-                "salary_to": 600,
-                "link": "https://api.hh.ru/vacancies/106257999?host=hh.ru"
+                "id": "106156961",
+                "title": "Ведущий системный администратор",
+                "city": "Нижний Новгород",
+                "salary_from": 115000,
+                "salary_to": 135000,
+                "link": "https://api.hh.ru/vacancies/106156961?host=hh.ru"
             },
             {
                 "id": "105004312",
@@ -6906,28 +6906,12 @@
                 "link": "https://api.hh.ru/vacancies/106032460?host=hh.ru"
             },
             {
-                "id": "106244485",
-                "title": "Директор по информационным технологиям (IT-директор)",
-                "city": "Нижний Новгород",
-                "salary_from": 250000,
-                "salary_to": 400000,
-                "link": "https://api.hh.ru/vacancies/106244485?host=hh.ru"
-            },
-            {
-                "id": "105915972",
-                "title": "Системный администратор",
-                "city": "Москва",
-                "salary_from": 57000,
-                "salary_to": 87000,
-                "link": "https://api.hh.ru/vacancies/105915972?host=hh.ru"
-            },
-            {
-                "id": "106197888",
-                "title": "Системный администратор",
-                "city": "Астана",
-                "salary_from": 300000,
+                "id": "106268560",
+                "title": "Системный администратор (техническая поддержка)",
+                "city": "Минск",
+                "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106197888?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106268560?host=hh.ru"
             },
             {
                 "id": "105804552",
@@ -6938,20 +6922,28 @@
                 "link": "https://api.hh.ru/vacancies/105804552?host=hh.ru"
             },
             {
-                "id": "106123251",
-                "title": "Ведущий специалист по информационной безопасности",
-                "city": "Бишкек",
-                "salary_from": 55000,
-                "salary_to": 65000,
-                "link": "https://api.hh.ru/vacancies/106123251?host=hh.ru"
-            },
-            {
                 "id": "105144115",
                 "title": "Системный администратор (частичная занятость)",
                 "city": "Москва",
                 "salary_from": 110000,
                 "salary_to": 150000,
                 "link": "https://api.hh.ru/vacancies/105144115?host=hh.ru"
+            },
+            {
+                "id": "105915972",
+                "title": "Системный администратор",
+                "city": "Москва",
+                "salary_from": 57000,
+                "salary_to": 87000,
+                "link": "https://api.hh.ru/vacancies/105915972?host=hh.ru"
+            },
+            {
+                "id": "106123251",
+                "title": "Ведущий специалист по информационной безопасности",
+                "city": "Бишкек",
+                "salary_from": 55000,
+                "salary_to": 65000,
+                "link": "https://api.hh.ru/vacancies/106123251?host=hh.ru"
             },
             {
                 "id": "106040082",
@@ -6962,12 +6954,12 @@
                 "link": "https://api.hh.ru/vacancies/106040082?host=hh.ru"
             },
             {
-                "id": "105664318",
-                "title": "Помощник системного администратора",
-                "city": "Москва",
-                "salary_from": 60000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105664318?host=hh.ru"
+                "id": "106244485",
+                "title": "Директор по информационным технологиям (IT-директор)",
+                "city": "Нижний Новгород",
+                "salary_from": 250000,
+                "salary_to": 400000,
+                "link": "https://api.hh.ru/vacancies/106244485?host=hh.ru"
             },
             {
                 "id": "106119607",
@@ -6978,36 +6970,20 @@
                 "link": "https://api.hh.ru/vacancies/106119607?host=hh.ru"
             },
             {
-                "id": "106053052",
-                "title": "Системный администратор ЦТО",
-                "city": "Кемерово",
-                "salary_from": null,
-                "salary_to": 120000,
-                "link": "https://api.hh.ru/vacancies/106053052?host=hh.ru"
-            },
-            {
-                "id": "106269339",
-                "title": "Системный администратор",
-                "city": "Астрахань",
-                "salary_from": 52000,
-                "salary_to": 52000,
-                "link": "https://api.hh.ru/vacancies/106269339?host=hh.ru"
-            },
-            {
-                "id": "106107184",
-                "title": "Системный администратор",
+                "id": "105664318",
+                "title": "Помощник системного администратора",
                 "city": "Москва",
-                "salary_from": 300000,
-                "salary_to": 300000,
-                "link": "https://api.hh.ru/vacancies/106107184?host=hh.ru"
+                "salary_from": 60000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/105664318?host=hh.ru"
             },
             {
-                "id": "106229205",
-                "title": "Системный администратор в супермаркет",
-                "city": "Алматы",
-                "salary_from": 340000,
-                "salary_to": 380000,
-                "link": "https://api.hh.ru/vacancies/106229205?host=hh.ru"
+                "id": "106197888",
+                "title": "Системный администратор",
+                "city": "Астана",
+                "salary_from": 300000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106197888?host=hh.ru"
             },
             {
                 "id": "106267339",
@@ -7018,6 +6994,22 @@
                 "link": "https://api.hh.ru/vacancies/106267339?host=hh.ru"
             },
             {
+                "id": "106053052",
+                "title": "Системный администратор ЦТО",
+                "city": "Кемерово",
+                "salary_from": null,
+                "salary_to": 120000,
+                "link": "https://api.hh.ru/vacancies/106053052?host=hh.ru"
+            },
+            {
+                "id": "106107184",
+                "title": "Системный администратор",
+                "city": "Москва",
+                "salary_from": 300000,
+                "salary_to": 300000,
+                "link": "https://api.hh.ru/vacancies/106107184?host=hh.ru"
+            },
+            {
                 "id": "105886113",
                 "title": "Помощник системного администратора",
                 "city": "Гродно",
@@ -7026,36 +7018,20 @@
                 "link": "https://api.hh.ru/vacancies/105886113?host=hh.ru"
             },
             {
-                "id": "106268560",
-                "title": "Системный администратор (техническая поддержка)",
-                "city": "Минск",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106268560?host=hh.ru"
+                "id": "106229205",
+                "title": "Системный администратор в супермаркет",
+                "city": "Алматы",
+                "salary_from": 340000,
+                "salary_to": 380000,
+                "link": "https://api.hh.ru/vacancies/106229205?host=hh.ru"
             },
             {
-                "id": "106193821",
+                "id": "106269339",
                 "title": "Системный администратор",
-                "city": "Витебск",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106193821?host=hh.ru"
-            },
-            {
-                "id": "106102118",
-                "title": "Руководитель отдела информационных технологий",
-                "city": "Москва",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106102118?host=hh.ru"
-            },
-            {
-                "id": "106098691",
-                "title": "Системный администратор",
-                "city": "Махачкала",
-                "salary_from": 60000,
-                "salary_to": 60000,
-                "link": "https://api.hh.ru/vacancies/106098691?host=hh.ru"
+                "city": "Астрахань",
+                "salary_from": 52000,
+                "salary_to": 52000,
+                "link": "https://api.hh.ru/vacancies/106269339?host=hh.ru"
             },
             {
                 "id": "106036560",
@@ -7066,6 +7042,22 @@
                 "link": "https://api.hh.ru/vacancies/106036560?host=hh.ru"
             },
             {
+                "id": "106102118",
+                "title": "Руководитель отдела информационных технологий",
+                "city": "Москва",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106102118?host=hh.ru"
+            },
+            {
+                "id": "106193821",
+                "title": "Системный администратор",
+                "city": "Витебск",
+                "salary_from": null,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106193821?host=hh.ru"
+            },
+            {
                 "id": "84484404",
                 "title": "Системный администратор Unix",
                 "city": "Новосибирск",
@@ -7074,28 +7066,12 @@
                 "link": "https://api.hh.ru/vacancies/84484404?host=hh.ru"
             },
             {
-                "id": "105100954",
-                "title": "Администратор",
-                "city": "Санкт-Петербург",
-                "salary_from": 50000,
-                "salary_to": 50000,
-                "link": "https://api.hh.ru/vacancies/105100954?host=hh.ru"
-            },
-            {
-                "id": "106273485",
-                "title": "Системный администратор Windows",
-                "city": "Екатеринбург",
-                "salary_from": 100000,
-                "salary_to": 100000,
-                "link": "https://api.hh.ru/vacancies/106273485?host=hh.ru"
-            },
-            {
-                "id": "106048843",
+                "id": "106098691",
                 "title": "Системный администратор",
-                "city": "Молодечно",
-                "salary_from": 1500,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106048843?host=hh.ru"
+                "city": "Махачкала",
+                "salary_from": 60000,
+                "salary_to": 60000,
+                "link": "https://api.hh.ru/vacancies/106098691?host=hh.ru"
             },
             {
                 "id": "106098456",
@@ -7106,12 +7082,36 @@
                 "link": "https://api.hh.ru/vacancies/106098456?host=hh.ru"
             },
             {
-                "id": "106266802",
-                "title": "Помощник системного администратора",
-                "city": "Челябинск",
-                "salary_from": 55000,
+                "id": "106053441",
+                "title": "Системный администратор (график работы 2/2)",
+                "city": "Курск",
+                "salary_from": 75000,
+                "salary_to": 75000,
+                "link": "https://api.hh.ru/vacancies/106053441?host=hh.ru"
+            },
+            {
+                "id": "105100954",
+                "title": "Администратор",
+                "city": "Санкт-Петербург",
+                "salary_from": 50000,
+                "salary_to": 50000,
+                "link": "https://api.hh.ru/vacancies/105100954?host=hh.ru"
+            },
+            {
+                "id": "106048843",
+                "title": "Системный администратор",
+                "city": "Молодечно",
+                "salary_from": 1500,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106266802?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106048843?host=hh.ru"
+            },
+            {
+                "id": "106273485",
+                "title": "Системный администратор Windows",
+                "city": "Екатеринбург",
+                "salary_from": 100000,
+                "salary_to": 100000,
+                "link": "https://api.hh.ru/vacancies/106273485?host=hh.ru"
             },
             {
                 "id": "105217193",
@@ -7122,20 +7122,12 @@
                 "link": "https://api.hh.ru/vacancies/105217193?host=hh.ru"
             },
             {
-                "id": "106053441",
-                "title": "Системный администратор (график работы 2/2)",
-                "city": "Курск",
-                "salary_from": 75000,
-                "salary_to": 75000,
-                "link": "https://api.hh.ru/vacancies/106053441?host=hh.ru"
-            },
-            {
-                "id": "106044280",
-                "title": "Системный администратор",
-                "city": "Москва",
-                "salary_from": 120000,
+                "id": "106266802",
+                "title": "Помощник системного администратора",
+                "city": "Челябинск",
+                "salary_from": 55000,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106044280?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/106266802?host=hh.ru"
             },
             {
                 "id": "106279823",
@@ -7144,6 +7136,14 @@
                 "salary_from": 150000,
                 "salary_to": null,
                 "link": "https://api.hh.ru/vacancies/106279823?host=hh.ru"
+            },
+            {
+                "id": "106044280",
+                "title": "Системный администратор",
+                "city": "Москва",
+                "salary_from": 120000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106044280?host=hh.ru"
             },
             {
                 "id": "106010084",
@@ -7162,6 +7162,14 @@
                 "link": "https://api.hh.ru/vacancies/106159058?host=hh.ru"
             },
             {
+                "id": "106099085",
+                "title": "Системный администратор",
+                "city": "Якутск",
+                "salary_from": 70000,
+                "salary_to": 120000,
+                "link": "https://api.hh.ru/vacancies/106099085?host=hh.ru"
+            },
+            {
                 "id": "106262781",
                 "title": "Инженер сопровождения IT-систем (2-3 линия техподдержки)",
                 "city": "Москва",
@@ -7178,12 +7186,20 @@
                 "link": "https://api.hh.ru/vacancies/106236436?host=hh.ru"
             },
             {
-                "id": "106099085",
+                "id": "106158175",
                 "title": "Системный администратор",
-                "city": "Якутск",
-                "salary_from": 70000,
-                "salary_to": 120000,
-                "link": "https://api.hh.ru/vacancies/106099085?host=hh.ru"
+                "city": "Ижевск",
+                "salary_from": 50000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106158175?host=hh.ru"
+            },
+            {
+                "id": "106215255",
+                "title": "Старший системный администратор",
+                "city": "Москва",
+                "salary_from": 200000,
+                "salary_to": null,
+                "link": "https://api.hh.ru/vacancies/106215255?host=hh.ru"
             },
             {
                 "id": "105044339",
@@ -7202,22 +7218,6 @@
                 "link": "https://api.hh.ru/vacancies/105055452?host=hh.ru"
             },
             {
-                "id": "106215255",
-                "title": "Старший системный администратор",
-                "city": "Москва",
-                "salary_from": 200000,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106215255?host=hh.ru"
-            },
-            {
-                "id": "105985064",
-                "title": "Системный администратор",
-                "city": "Ташкент",
-                "salary_from": null,
-                "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/105985064?host=hh.ru"
-            },
-            {
                 "id": "106265076",
                 "title": "Chief Information Officer/CIO (юридическая фирма)",
                 "city": "Москва",
@@ -7226,12 +7226,12 @@
                 "link": "https://api.hh.ru/vacancies/106265076?host=hh.ru"
             },
             {
-                "id": "106158175",
+                "id": "105985064",
                 "title": "Системный администратор",
-                "city": "Ижевск",
-                "salary_from": 50000,
+                "city": "Ташкент",
+                "salary_from": null,
                 "salary_to": null,
-                "link": "https://api.hh.ru/vacancies/106158175?host=hh.ru"
+                "link": "https://api.hh.ru/vacancies/105985064?host=hh.ru"
             }
         ]
     },
