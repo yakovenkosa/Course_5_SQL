@@ -6,7 +6,7 @@ from config import config
 def connection_to_data(vacancies_list):
     """
     Создание базы данных для хранения и полученных данных о
-    работодателях и их вакансиях.
+    работодателях и вакансиях.
     """
     db_params = config()
     conn = psycopg2.connect(**db_params)
