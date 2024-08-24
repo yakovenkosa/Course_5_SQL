@@ -12,7 +12,7 @@ class Parser(ABC):
 class HeadHunterParser(Parser):
     """
     Класс для работы с API HeadHunter
-    Класс Parser является родительским классом.
+    Класс Parser(ABC) является родительским классом.
     """
 
     def get_vacancies(self, keyword):
