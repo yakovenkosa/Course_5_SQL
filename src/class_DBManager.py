@@ -13,7 +13,7 @@ class DBManager:
 
     def get_companies_and_vacancies_count(self):
         """
-        Функция для получения списка компаний и количество вакансий для каждой.
+        Функция для получения списка компаний и количество вакансий в каждой.
         """
         cur = self.conn.cursor()
         cur.execute(
