@@ -36,7 +36,7 @@ def creating_dictionary_list(other):
 
 def get_print(input_user):
     """
-    Функция для вывода результатов по запросу.
+    Функция для вывода результата по запросу.
     """
     db = DBManager()
 
